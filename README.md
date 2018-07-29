@@ -182,16 +182,13 @@ CSS(3)
 </div>
 <footer id="footer">
 <section>
- <ul style="list-style-type:disc">
-  <li>Coffee</li>
-  <li>Tea</li>
-  <li>Milk</li>
-</ul>
+ 
  
 <h2>Frequently asked questions</h2>
 <p>
  <ul style="list-style-type:disc">
   <li>How can I get the best from my battery?/li>
+   </p>
   <li> There are different views about this./li>
   <li>Tea</li>
   <li>Milk</li>
