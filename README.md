@@ -26,9 +26,11 @@
 <h1>MobilityMaintenancePeterborough.co.uk</h1>
 <ul>
 <li><a href="#Who Are We?" class="active">Who Are We</a></li>
-<li><a href="#Services">Skills</a></li>
-<li><a href="#contact">Contact</a></li>
-<li><a href="#blog">Blog</a></li>
+<li><a href="#Services">Services</a></li>
+<li><a href="#Customer Testimonials">Customer Testimonials</a></li>
+<li><a href="#Previous Repairs">Services</a></li>
+ <li><a href="#contact us">Contact</a></li>
+<li><a href="#Frequently Asked Questions</a></li>
 </ul>
 </nav>
 <div id="main">
