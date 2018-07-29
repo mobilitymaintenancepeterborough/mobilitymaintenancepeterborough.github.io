@@ -118,20 +118,20 @@ examples of previous repairs undertaken
 <h2>Contact Us</h2>
 
  <p>
-<input style="width: 300px; padding: 20px; box-shaddow: 6px 6px 5px; #999999; -webkit-box-shadow: 4px 4px 2px #999999; -moz-box-shadow: 4px 3px 2px #999999; font-weight: bold; background: #CCFF00; color: #000000; cursor: pointer; border-radius: 8px; border: 1px solid #D9D9D9; font-size: 100%;" type="button" value="Send eMail" onclick="window.location.href='mailto:mobilitymaintenancepeterborough.co.uk'" />
+<input style="width: 300px; padding: 20px; box-shaddow: 6px 6px 5px; #999999; -webkit-box-shadow: 2px 2px 1px #999999; -moz-box-shadow: 2px 2px 1px #999999; font-weight: bold; background: #CCFF00; color: #000000; cursor: pointer; border-radius: 5px; border: 1px solid #D9D9D9; font-size: 75%;" type="button" value="Send eMail" onclick="window.location.href='mailto:mobilitymaintenancepeterborough.co.uk'" />
 </p>
   <p> <p>
   <p>
     <p>
       <p> 
-Please call us on  <strong> <font size="+6">07947 436294 </font> to discuss your needs.</strong>  Please leave a message is we don't answer, with details of the model of your mobility scooter and the problem and we will aim to get back to you within 24 hours.
+Please call us on  <strong> <font size="+4">07947 436294 </font> to discuss your needs.</strong>  Please leave a message is we don't answer, with details of the model of your mobility scooter and the problem and we will aim to get back to you within 24 hours.
   </p>
   <p>
   <p>
   <p>
  <p>
    <p>
-Alternatively, email us on <strong> <font size="+6">mobilitymaintenancepeterborough.co.uk</font></strong>  with details of the model of your mobiity scooter and the problem and we will aim to get back to you within 24 hours.
+Alternatively, email us on <strong> <font size="+4">mobilitymaintenancepeterborough.co.uk</font></strong>  with details of the model of your mobiity scooter and the problem and we will aim to get back to you within 24 hours.
   <p>
  <p>
  
