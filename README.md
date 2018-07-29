@@ -101,18 +101,10 @@ We have many happy customers, many who use us on a regular basis to either servi
   <p> 
 
  Shiela A S <strong>"Previous feedback very true, quick efficient and reasonable prices"</strong>
+
  <p> 
- <p> 
-  <p> 
-      <p> 
-  <p>
-    <p>
-      <p>
-        <p>
-          <p>
- <p>
-  <p>
-<li>
+ 
+ 
 <section id="Previous Repairs" class="main special">
 <header class="major">
 <h3>Previous repairs</h3>
