@@ -25,8 +25,8 @@
 <nav id="nav">
 <h1>MobilityMaintenancePeterborough.co.uk</h1>
 <ul>
-<li><a href="#intro" class="active">Introduction</a></li>
-<li><a href="#skills">Skills</a></li>
+<li><a href="#intro" class="active">Who Are We</a></li>
+<li><a href="#Services">Skills</a></li>
 <li><a href="#contact">Contact</a></li>
 <li><a href="#blog">Blog</a></li>
 </ul>
