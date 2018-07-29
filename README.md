@@ -124,7 +124,7 @@ examples of previous repairs undertaken
   <p>
     <p>
       <p> 
-Please call us on  <strong>07947 436294 to discuss your needs.</strong>  Please leave a message is we don't answer, with details of the model of your mobiity scooter and the problem and we will aim to get back to you within 24 hours.
+Please call us on  <strong> <font size="+8">07947 436294 </font> to discuss your needs.</strong>  Please leave a message is we don't answer, with details of the model of your mobiity scooter and the problem and we will aim to get back to you within 24 hours.
   </p>
   <p>
   <p>
