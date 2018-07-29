@@ -188,7 +188,8 @@ CSS(3)
 <p>
  <ul style="list-style-type:disc">
   <li>How can I get the best from my battery?/li>
-   </p>
+  </p>
+<p>
   <li> There are different views about this./li>
   <li>Tea</li>
   <li>Milk</li>
