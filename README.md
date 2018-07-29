@@ -190,12 +190,11 @@ CSS(3)
  
 <h2>Frequently asked questions</h2>
 <p>
- </ul>
 How can I get the best from my battery?
 </p>
-</li>
+
 There are different views about this.
-</p>
+
 </section>
 
 <p class="copyright">
