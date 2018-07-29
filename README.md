@@ -190,10 +190,18 @@ CSS(3)
  
 <h2>Frequently asked questions</h2>
 <p>
-How can I get the best from my battery?
+ <ul style="list-style-type:disc">
+  <li>How can I get the best from my battery?/li>
+   </p>
+  <li>Tea</li>
+  <li>Milk</li>
+</ul>
+
 </p>
 
 There are different views about this.
+</p>
+</p>
 
 </section>
 
