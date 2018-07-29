@@ -116,11 +116,7 @@ examples of previous repairs undertaken
 <section id="Contact Us" class="main special">
 <header class="major">
 <h2>Contact Us</h2>
-
- 
-<input style="width: 100px; padding: 20px; box-shaddow: 6px 6px 5px; #999999; -webkit-box-shadow: 2px 2px 1px #999999; -moz-box-shadow: 2px 2px 1px #999999; font-weight: bold; background: #CCFF00; color: #000000; cursor: pointer; border-radius: 3px; border: 1px solid #D9D9D9; font-size: 80%;" type="button" value="Send eMail" onclick="window.location.href='mailto:mobilitymaintenancepeterborough.co.uk'" />
-
-  <p> <p>
+<p>
   <p>
     <p>
       <p> 
