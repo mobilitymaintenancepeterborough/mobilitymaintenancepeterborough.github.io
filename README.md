@@ -189,7 +189,7 @@ CSS(3)
 </header>
 <p>
  <ul style="list-style-type:disc">
-  <li>How can I get the best from my battery?/li>
+  <li>How can I get the best from my battery?
  <p>
   <li> There are different views about this./li>
   <li>Tea</li>
