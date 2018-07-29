@@ -54,7 +54,7 @@ Our prices are competative as we are a small team, which means we can offer a co
 Our aim is to provide a fast, friendly, reliable and competative service.  We have a genuine interest in the needs of our customers and will go the extra mile to ensure customer satisfaction.  For your convenience, where possible, we will come to your premises to undertake the service / repair.  On occasions this will not be possible, in which case we will take your mobility scooter away to our workshop and return it to you once fixed/serviced and an agreed date and time.
 
 <p>
-</div>
+
 <figure>
 <span class="image">
 <picture>
@@ -69,7 +69,7 @@ wording re image.
 </figure>
 </div>
 </section>
-<section id="skills" class="main special">
+<section id="Services" class="main special">
 <header class="major">
 <h2>My Skills</h2>
 </header>
