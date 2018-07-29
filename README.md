@@ -143,7 +143,20 @@ We have many happy customers, many who use us on a regular basis to either servi
 <p>
 examples of previous repairs undertaken
  
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<p>
+<p>
+<p>
+<p>
+<p>
+<p>
+<p>
 
 <p>
 <section id="Contact Us" class="main special">
