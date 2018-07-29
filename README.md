@@ -186,11 +186,14 @@ CSS(3)
  
  
 <h2>Frequently asked questions</h2>
-</header>
+
 <p>
  <ul style="list-style-type:disc">
   <li>How can I get the best from my battery?
  <p>
+  
+  
+  
   <li> There are different views about this./li>
   <li>Tea</li>
   <li>Milk</li>
