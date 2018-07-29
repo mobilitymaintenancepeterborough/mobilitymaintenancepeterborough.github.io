@@ -1,9 +1,7 @@
 <html lang="en-gb">
-<head>
+<br>
 <title>Home - Mobility Maintenance Peterboroughk</title>
- <br>
- <br>
-<meta charset="utf-8" />
+ <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <script src="/cdn-cgi/apps/head/8YAkhn5MLshVZzN2-sfKk7FoTH8.js"></script><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400" async />
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha256-eZrrJcwDc/3uDhsdt61sL2oOBY362qM3lon1gyExkL0=" crossorigin="anonymous" async />
@@ -24,6 +22,11 @@
 <header id="header" class="alt">
 <h1>Mobility Maintenance Peterborough</h1>
 </header>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
 <ul>
 <li><a href="#Who Are We?" class="active">Who Are We</a></li>
 <li><a href="#Services">Services</a></li>
