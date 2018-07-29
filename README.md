@@ -182,7 +182,13 @@ CSS(3)
 </div>
 <footer id="footer">
 <section>
-<h2>AFrequently asked questions</h2>
+ <ul style="list-style-type:disc">
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ul>
+ 
+<h2>Frequently asked questions</h2>
 <p>
 I'm a developer who loves what he does, forever learning and trying out new things.
 </p>
