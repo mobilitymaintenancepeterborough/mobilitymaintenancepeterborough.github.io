@@ -104,13 +104,11 @@ We have many happy customers, many who use us on a regular basis to either servi
 
  <p> 
  
- 
-<section id="Previous Repairs" class="main special">
+ <section id="Previous Repairs" class="main special">
 <header class="major">
-<h3>Previous repairs</h3>
+<h2>Previous Reepairs</h2>
 <p>
-I love learning new technology and then showing other people what is out there and how it might help them, be it a new gadget or a framework.
-At my current work place I've done a number of 'lunchtime learning' and bite size info sessions teaching the basics of some of the things I've learnt.
+text about repairs.
 </p>
 </li>
 </ul>
