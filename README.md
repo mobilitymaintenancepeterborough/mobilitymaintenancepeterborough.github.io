@@ -96,6 +96,7 @@ wording re image.
 
 <li>
  <section id="Customer Feedback" class="main special">
+  <header class="major">
   <li>
 <h3>Customer Testimonials</h3>
 <p>
