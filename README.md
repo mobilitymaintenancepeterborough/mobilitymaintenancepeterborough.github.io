@@ -22,8 +22,6 @@
 <header id="header" class="alt">
 <h1>Mobility Maintenance Peterborough</h1>
 </header>
-<nav id="nav">
-<h1>MobilityMaintenancePeterborough.co.uk</h1>
 <ul>
 <li><a href="#Who Are We?" class="active">Who Are We</a></li>
 <li><a href="#Services">Services</a></li>
