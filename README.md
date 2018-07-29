@@ -128,7 +128,8 @@ Please call us on  <strong> <font size="+8">07947 436294 </font> to discuss your
   </p>
   <p>
   <p>
-
+ <p>
+   <p>
 Alternatively, email us on <strong>mobilitymaintenancepeterborough.co.uk</strong>with details of the model of your mobiity scooter and the problem and we will aim to get back to you within 24 hours.
   <p>
  <p>
