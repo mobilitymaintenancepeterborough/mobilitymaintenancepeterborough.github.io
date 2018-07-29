@@ -85,10 +85,8 @@ wording re image.
 <li>Annual Servicing.</li> 
     <li>A fully documented inspection of all aspects of your scooter (to include brakes, wheels/tyres, all electrics, fixings, chassis, bodywork, seats and belts).
      "<li>a full battery test.</li>
-     style="padding-left: 3em;
- <p style="display: block; text-indent: 3em;"<li>yest indent</li>
-<p>
-background 
+     "<li>yest indent</li>
+
 </p>
 </li>
 <li>
