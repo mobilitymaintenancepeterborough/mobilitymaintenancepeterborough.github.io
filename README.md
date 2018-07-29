@@ -88,21 +88,21 @@ We have many happy customers, many who use us on a regular basis to either servi
  
  Gerald R <strong>"Excellent service given I have experienced it very reliable and nice man if he can help you he will"</strong>
  <br>
- <br>
+ <br
  Annie W <strong>"Cannot recommend the lovely man enough.  Top service. Honest. Reliable and so lovely.</strong>
- <br>
+ <br
  <p> 
  <br>
  Lyn P B <strong>"David came to my house and sorted out my mobility scooter quickly and efficiently and the price was great !  The scooter is working like new"</strong>
- <br>
+ <br
  <p> 
  <br>
  Dai RO <strong>"First class service and prompt.  Will definitely use again if needed"</strong>
- <br>
+ <br
   <p> 
  <br>
  Shiela A S <strong>"Previous feedback very true, quick efficient and reasonable prices"</strong>
- <br>
+ <br
    <p> 
  <br>
  
