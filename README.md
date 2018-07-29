@@ -132,8 +132,6 @@ Please call us on  <strong> <font size="+5">07947 436294 </font> to discuss your
   <p>
  <p>
    <p>
-    <p> margin-left: 20cm;
-<input style="width: 100px; padding: 20px; box-shaddow: 6px 6px 5px; #999999; -webkit-box-shadow: 2px 2px 1px #999999; -moz-box-shadow: 2px 2px 1px #999999; font-weight: bold; background: #CCFF00; color: #000000; cursor: pointer; border-radius: 5px; border: 1px solid #D9D9D9; font-size: 80%;" type="button" value="Send eMail" onclick="window.location.href='mailto:mobilitymaintenancepeterborough.co.uk'" 
        
 Alternatively, email us on <strong> <font size="+5">mobilitymaintenancepeterborough.co.uk</font> </strong>  with details of the model of your mobiity scooter and the problem and we will aim to get back to you within 24 hours.
   <p>
