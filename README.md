@@ -192,14 +192,14 @@ CSS(3)
 <p>
  <ul style="list-style-type:disc">
   <li>How can I get the best from my battery?/li>
-   </p>
+   There are different views about this.
   <li>Tea</li>
   <li>Milk</li>
 </ul>
 
 </p>
 
-There are different views about this.
+
 </p>
 </p>
 
