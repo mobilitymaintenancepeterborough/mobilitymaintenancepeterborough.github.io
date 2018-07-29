@@ -65,7 +65,7 @@ Our aim is to provide a fast, friendly, reliable and competative service.  We ha
 <div class="content">
 <header class="major">
  
- <section id="Customer Feedback" class="main special">
+ <section id="Customer Testimonials" class="main special">
 <header class="major">
 <h2>Customer Feedback</h2>
 </header>
