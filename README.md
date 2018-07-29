@@ -162,25 +162,10 @@ examples of previous repairs undertaken
 <br>
 <br>
 <br>
-
-<p>
-<p>
-<p>
-<p>
-<p>
-<p>
-<p>
- <p>
-  <p>
-   <p>
-    <p>
-     <p>
-      <p>
-       <p>
-        <p>
-         <p>
-          <p>
-           <p>
+<br>
+<br>
+<br>
+<br>
             <p>
 
 <p>
