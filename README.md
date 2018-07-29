@@ -67,15 +67,17 @@ Our aim is to provide a fast, friendly, reliable and competative service.  We ha
 wording re image.
 </figcaption>
 </figure>
+
 </div>
+
 </section>
 <section id="Services" class="main special">
 <header class="major">
-<h2>My Skills</h2>
+<h2>Services</h2>
 </header>
 <ul class="features">
 <li>
-<span class="icon major style1 fa-laptop"></span>
+<span class="icon major style1 fa-laptop"></span>  test position of text
 <h3>.Net</h3>
 <p>
 background 
@@ -101,6 +103,7 @@ At my current work place I've done a number of 'lunchtime learning' and bite siz
 <footer class="major">
 </footer>
 </section>
+
 <section id="abilities" class="main special">
 <header class="major">
 <h2>Abilities</h2>
@@ -174,6 +177,7 @@ I'm a developer who loves what he does, forever learning and trying out new thin
 I've just started blogging and you can view it on <a href="https://blog.stephenj.co.uk">blog.stephenj.co.uk</a>.
 </p>
 </section>
+ 
 <section id="contact">
 <h2>Get In Touch</h2>
 <p hidden>
