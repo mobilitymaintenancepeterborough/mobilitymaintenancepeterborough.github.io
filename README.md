@@ -93,7 +93,7 @@ wording re image.
   Including supplying and fitting replacement batteries and charger.  High quality parts are used.</li>
   <li>Bodywork repairs.  The repair of damages panels, through to a full repaint.</li>
  <li>Battery replacement.  The batteries we use have been sourced for many years and have been found to be trouble free and reliable, despite being one of the cheapest on the market.</li>
-</li>
+
 <li>
 <h3>Customer Testimonials</h3>
 <p>
