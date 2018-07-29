@@ -121,53 +121,10 @@ new contact us wording.
 <input type="button" value="Send eMail" onclick="window.location.href='mobilitymaintenancepeterborough.co.uk'" />
 </form>
  
-</header>
-<ul class="statistics">
-<li class="style1">
-<span class="icon fa-star"></span>
-<span class="icon fa-star"></span>
-<span class="icon fa-star"></span>
-<span class="icon fa-star"></span>
-<span class="icon fa-star"></span>
-<b>
-MVC
-</b>
-</li>
-<li class="style2">
-<span class="icon fa-star"></span>
-<span class="icon fa-star"></span>
-<span class="icon fa-star"></span>
-<span class="icon fa-star"></span>
-<span class="icon fa-star"></span>
-<b>HTML(5)</b>
-</li>
-<li class="style3">
-<span class="icon fa-star"></span>
-<span class="icon fa-star"></span>
-<span class="icon fa-star"></span>
-<span class="icon fa-star"></span>
-<span class="icon fa-star"></span>
-<b>JavaScript</b>
-</li>
-<li class="style4">
-<span class="icon fa-star"></span>
-<span class="icon fa-star"></span>
-<span class="icon fa-star"></span>
-<span class="icon fa-star"></span>
-<span class="icon fa-star-half-empty"></span>
-<b>SQL</b>
-</li>
-<li class="style5">
-<span class="icon fa-star"></span>
-<span class="icon fa-star"></span>
-<span class="icon fa-star"></span>
-<span class="icon fa-star"></span>
-<span class="icon fa-star-o"></span>
-<b>
-CSS(3)
-</b>
-</li>
-</ul>
+Please call us on 07947 436294 to discuss your needs.  Please leave a message is we don' answer, with details of the model of your mobiity scooter and the problem and we will aim to get back to you within 24 hours.
+
+
+Alternatively, email us on mobilitymaintenancepeterborough.co.uk with details of the model of your mobiity scooter and the problem and we will aim to get back to you within 24 hours.
 
  
 <section id="Frequently Asked Questions" class="main special">
