@@ -20,10 +20,10 @@
 <body>
 <div id="wrapper">
 <header id="header" class="alt">
-<h1>StephenJ.co.uk</h1>
+<h1>Mobility Maintenance Peterborough</h1>
 </header>
 <nav id="nav">
-<h1>StephenJ.co.uk</h1>
+<h1>MobilityMaintenancePeterborough.co.uk</h1>
 <ul>
 <li><a href="#intro" class="active">Introduction</a></li>
 <li><a href="#skills">Skills</a></li>
