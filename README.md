@@ -36,7 +36,7 @@
 <div class="spotlight">
 <div class="content">
 <header class="major">
-<h2>Who Am I?</h2>
+<h2>Who Are We?</h2>
 </header>
 <p>
 My name is David and I am the owner of Mobility Maintenance Peterborough and my company has over 15 years experience in maintaining and repairing a wide range of mobility scooters in Peterborough and the surrounding area.
