@@ -77,15 +77,12 @@ At my current work place I've done a number of 'lunchtime learning' and bite siz
 </p>
 </li>
 </ul>
-<footer class="major">
-</footer>
-</section>
 
- <section id="Contact Us" class="main special">
+<section id="Contact Us" class="main special">
 <header class="major">
 <h2>Contact Us</h2>
 <p>
-When not out and about playing Ingress, I try and keep my knowledge up to date.<br /> Here are a few things I know about...
+new contact us wording.
 </p>
 </header>
 <ul class="statistics">
@@ -134,15 +131,7 @@ CSS(3)
 </b>
 </li>
 </ul>
-<footer class="major">
-<ul class="actions">
-<li>This is not an exhaustive list, for now just a quick top 5.</li>
-</ul>
-</footer>
-</section>
-</div>
-<footer id="footer">
-<section>
+
  
 <section id="Frequently asked questions" class="main special">
 <header class="major">
