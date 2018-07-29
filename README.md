@@ -191,18 +191,6 @@ I'm a developer who loves what he does, forever learning and trying out new thin
 </section>
  
 <section id="contact">
-<h2>Get In Touch</h2>
-<p hidden>
-<span class="fa fa-exclamation-triangle"></span>
-You'll need an active internet connection to view these...
-</p>
-<ul class="icons">
-<li><a href="https://twitter.com/skuldo" class="icon fa-twitter alt" title="Twitter"></a></li>
- <li><a href="https://www.facebook.com/skipishere" class="icon fa-facebook alt" title="Facebook"></a></li>
-<li><a href="https://www.linkedin.com/in/stephencharlesjones" class="icon fa-linkedin alt" title="LinkedIn"></a></li>
-<li><a href="https://google.com/+StephenJonesIsHere" class="icon fa-google alt" title="Google+"></a></li>
-<li><a href="https://stackoverflow.com/users/839992/skuld" class="icon fa-stack-overflow alt" title="Stack Overflow"></a></li>
-</ul>
 </section>
 <p class="copyright">
 &copy; 2018 - MobilityMaintenancePeterborough.co.uk <br />
