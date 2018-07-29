@@ -103,8 +103,8 @@ wording re image.
 <h2>Customer Feedback</h2>
 </header>
  
-# <section id="Customer Feedback" class="main special">
-#  <header class="major">
+// <section id="Customer Feedback" class="main special">
+ // <header class="major">
 <p>
 We have many happier customers, many who use us on a regular basis to either service or repair thier mobility scooters.  We have grown our business from recomendations from existing customers.  Some customer comments and testimonials are below;
 </p>
