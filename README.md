@@ -51,11 +51,11 @@ into online retail and I currently enjoy my succesfull role at a well known fina
 <picture>
 <source srcset="/Content/images/MyEyes.webp" type="image/webp">
 <source srcset="/Content/images/MyEyes.jpg" type="image/jpeg">
-<img src="/Content/images/MyEyes.jpg" alt="Me unable to see due to photo flash" />
+<img src="" />
 </picture>
 </span>
 <figcaption>
-When your daughter takes a photo with the flash right in your eyes...
+wording re image.
 </figcaption>
 </figure>
 </div>
@@ -69,8 +69,7 @@ When your daughter takes a photo with the flash right in your eyes...
 <span class="icon major style1 fa-laptop"></span>
 <h3>.Net</h3>
 <p>
-I've been working with .Net since 2008, initially learning VB.Net then moving onto C#.Net.
-I was an early adoptor of Microsoft's MVC Framework (got the original MVC book on a shelf at home), and have lately been getting to grips with the .Net Core.
+background 
 </p>
 </li>
 <li>
