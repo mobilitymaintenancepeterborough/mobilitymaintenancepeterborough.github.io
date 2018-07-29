@@ -9,7 +9,7 @@ Sometimes the problem can be resolved over the phone, saving you time and money.
 <li><a href="#Who Are We?" class="active">Who Are We?</a></li>
 <li><a href="#Services">Services</a></li>
 <li><a href="#Customer Testimonials">Customer Testimonials</a></li>
-<li><a href="#Previous Repairs">Previous Repairss</a></li>
+<li><a href="#Previous Repairs">Previous Repairs</a></li>
  <li><a href="#Contact us">Contact</a></li>
 <li><a href="#Frequently Asked Questions">Frequently Asked Questions</a></li>
 </ul>
@@ -20,17 +20,10 @@ Sometimes the problem can be resolved over the phone, saving you time and money.
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-
-<div id="main">
-<section id="intro" class="main">
-<div class="spotlight">
-<div class="content">
+<section id="Who Are We?" class="main special">
 <header class="major">
 <h2>Who Are We?</h2>
-</header>
+ </header>
 <p>
 My name is David and I am the owner of Mobility Maintenance Peterborough and my company has over 15 years experience in maintaining and repairing a wide range of mobility scooters in Peterborough and the surrounding area.
 </p>
@@ -71,6 +64,12 @@ Our aim is to provide a fast, friendly, reliable and competative service.  We ha
 <div class="spotlight">
 <div class="content">
 <header class="major">
+ 
+ 
+ <section id="Services" class="main special">
+<header class="major">
+<h2>Services</h2>
+ 
  
 <h2>Customer Feedback</h2>
 </header>
