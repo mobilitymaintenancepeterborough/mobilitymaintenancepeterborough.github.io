@@ -80,7 +80,7 @@ wording re image.
 <section id="Services" class="main special">
 <header class="major">
 <h2>Services</h2>
-<li>Annual Servicing</li>
+style="padding-left: 3em;"<li>Annual Servicing</li>
     To ensure you get the most from your mobility scooter, we offer a comprehansive service which includes
     <li>a fully documented inspection of all aspects of your scooter (to include brakes, wheels/tyres, all electrics, fixings, chassis, bodywork, seats and belts).
 <li>a full battery test.
