@@ -110,8 +110,6 @@ We have many happy customers, many who use us on a regular basis to either servi
 <p>
 text about repairs.
 </p>
-</li>
-</ul>
 
 <section id="Contact Us" class="main special">
 <header class="major">
@@ -119,6 +117,10 @@ text about repairs.
 <p>
 new contact us wording.
 </p>
+ <form>
+<input type="button" value="Send eMail" onclick="window.location.href='mobilitymaintenancepeterborough.co.uk'" />
+</form>
+ 
 </header>
 <ul class="statistics">
 <li class="style1">
