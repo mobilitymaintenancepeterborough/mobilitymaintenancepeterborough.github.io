@@ -40,7 +40,7 @@
 
     
     <img 
-    src="https://1drv.ms/u/s!An5-UiGdXEabrVy-eTKkxjSfzHJp" 
+    src="https://1drv.ms/u/s!An5-UiGdXEabrVy-eTKkxjSfzHJp.jpg" 
     width="100"
     alt="This is some text">
     <div id="bottom">
