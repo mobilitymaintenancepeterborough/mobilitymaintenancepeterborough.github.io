@@ -190,14 +190,11 @@ CSS(3)
  
 <h2>Frequently asked questions</h2>
 <p>
-I'm a developer who loves what he does, forever learning and trying out new things.
+How can I get the best from my battery?
+There are different views about this.
 </p>
 </section>
 
-</section>
- 
-<section id="contact">
-</section>
 <p class="copyright">
 &copy; 2018 - MobilityMaintenancePeterborough.co.uk <br />
 
