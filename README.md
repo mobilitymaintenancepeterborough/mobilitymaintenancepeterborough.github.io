@@ -39,11 +39,12 @@
 <h2>Who Am I?</h2>
 </header>
 <p>
-My name is David and I am the owner of Mobility Maintenance Peterborough.
+My name is David and I am the owner of Mobility Maintenance Peterborough and my company has over 15 years experience in maintaining and repairing a wide range of mobility scooters in Peterborough and the surrounding area.
 </p>
 <p>
-I specialise in .NET development but I also enjoy working with the vast collection of other languages that are out there. My career in development started over 10 years ago in the media industry, I then moved
-into online retail and I currently enjoy my succesfull role at a well known financial institution.
+I'm often asked "why mobility scooter repairs" and "How can we be so competitive?" 
+ </p>
+We understand how important it is to be able to rely on your mobility scooter and the independence they can provide.   We will always do our best to "Keep You Moving" and we take pride in our work and take the time to understand the needs of every customer.
 </p>
 </div>
 <figure>
