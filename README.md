@@ -68,7 +68,7 @@ wording re image.
 </figcaption>
 </figure>
 
-</div>
+
 
 <ul style="list-style-type:disc">
   <li>Coffee</li>
@@ -76,7 +76,7 @@ wording re image.
   <li>Milk</li>
 </ul>
 
-</section>
+
 <section id="Services" class="main special">
 <header class="major">
 <h2>Services</h2>
@@ -95,6 +95,8 @@ wording re image.
  <li>Battery replacement.  The batteries we use have been sourced for many years and have been found to be trouble free and reliable, despite being one of the cheapest on the market.</li>
 
 <li>
+ <section id="Customer Feedback" class="main special">
+  <li>
 <h3>Customer Testimonials</h3>
 <p>
 We have many happier customers, many who use us on a regular basis to either service or repair thier mobility scooters.  We have grown our business from recomendations from existing customers.  Some customer comments and testimonials are below;
