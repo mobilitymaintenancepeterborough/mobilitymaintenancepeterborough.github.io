@@ -78,6 +78,11 @@ Our aim is to provide a fast, friendly, reliable and competative service.  We ha
 <br>
 <br>
 <br>
+<br>
+<br>
+<p>
+ <p>
+
 <section id="Customer Testimonials" class="main special">
 <header class="major">
 <h2>Customer Testimonials</h2>
@@ -106,6 +111,14 @@ We have many happy customers, many who use us on a regular basis to either servi
  Shiela A S <strong>"Previous feedback very true, quick efficient and reasonable prices"</strong>
 
  <p> 
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+<p>
+ 
  
  <section id="Previous Repairs" class="main special">
 <header class="major">
