@@ -205,19 +205,7 @@ You'll need an active internet connection to view these...
 </ul>
 </section>
 <p class="copyright">
-&copy; 2018 - StephenJ.co.uk <br />
-Based on "Stella" Design from: <a href="https://html5up.net">HTML5 UP</a>.
+&copy; 2018 - MobilityMaintenancePeterborough.co.uk <br />
+
 </p>
 </footer>
-</div>
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js" integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8=" crossorigin="anonymous"></script>
-<script src="/Scripts/modernizr-3.5.0.js"></script>
-<script src="/scripts/stella/jquery.scrollex.min.js"></script>
-<script src="/scripts/stella/jquery.scrolly.min.js"></script>
-<script src="/scripts/stella/skel.min.js"></script>
-<script src="/scripts/stella/util.js"></script>
-<script src="/scripts/stella/main.js"></script>
-<script src="/Scripts/site.js"></script>
-</body>
-</html>
-
