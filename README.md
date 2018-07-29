@@ -190,14 +190,17 @@ CSS(3)
 <p>
  <ul style="list-style-type:disc">
   <li>How can I get the best from my battery?
- <br>  There are different views about this.
+ <br>  There are different views about how and when you should charge your scooter.  Some manafactures believe that you should charge your scooter straight after use whereas others believe that you should charge your scooter when the battery is getting towards empty.  We recommend you check your scooter manual for advice about how to make the most of your scooter battery.
+<p>   
+<li>How can I maintain the life of my battery if I plan not to use my mobility scooter for a while?
+ <br>  When storing your scooter for long periods, to keep your battery in good condition you should always fully charge the batteries before disconnecting them from the scooter and allowing them to drain naturally.
+   <p>
+   
+   
  <p>
   
   
   
-  <li> There are different views about this./li>
-  <li>Tea</li>
-  <li>Milk</li>
 </ul>
 
 </p>
