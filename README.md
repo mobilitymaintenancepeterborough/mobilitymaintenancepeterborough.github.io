@@ -114,14 +114,13 @@ text about repairs.
 <section id="Contact Us" class="main special">
 <header class="major">
 <h2>Contact Us</h2>
-<p>
-new contact us wording.
 </p>
  <form>
 <input type="button" value="Send eMail" onclick="window.location.href='mobilitymaintenancepeterborough.co.uk'" />
 </form>
- 
+ </p>
 Please call us on 07947 436294 to discuss your needs.  Please leave a message is we don' answer, with details of the model of your mobiity scooter and the problem and we will aim to get back to you within 24 hours.
+  </p>
   <p>
 
 Alternatively, email us on mobilitymaintenancepeterborough.co.uk with details of the model of your mobiity scooter and the problem and we will aim to get back to you within 24 hours.
