@@ -103,15 +103,13 @@ wording re image.
 <h2>Customer Feedback</h2>
 </header>
  
-// <section id="Customer Feedback" class="main special">
- // <header class="major">
 <p>
-We have many happier customers, many who use us on a regular basis to either service or repair thier mobility scooters.  We have grown our business from recomendations from existing customers.  Some customer comments and testimonials are below;
+We have many happy customers, many who use us on a regular basis to either service or repair thier mobility scooters.  We have grown our business from recomendations from existing customers.  Some customer comments and testimonials are below;
 </p>
 </li>
 <li>
 
-<h3>Role Model</h3>
+<h3>Previous repairs</h3>
 <p>
 I love learning new technology and then showing other people what is out there and how it might help them, be it a new gadget or a framework.
 At my current work place I've done a number of 'lunchtime learning' and bite size info sessions teaching the basics of some of the things I've learnt.
@@ -124,7 +122,7 @@ At my current work place I've done a number of 'lunchtime learning' and bite siz
 
 <section id="abilities" class="main special">
 <header class="major">
-<h2>Abilities</h2>
+<h2>Contact us</h2>
 <p>
 When not out and about playing Ingress, I try and keep my knowledge up to date.<br /> Here are a few things I know about...
 </p>
@@ -184,7 +182,7 @@ CSS(3)
 </div>
 <footer id="footer">
 <section>
-<h2>About</h2>
+<h2>AFrequently asked questions</h2>
 <p>
 I'm a developer who loves what he does, forever learning and trying out new things.
 </p>
