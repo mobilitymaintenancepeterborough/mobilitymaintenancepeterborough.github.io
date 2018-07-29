@@ -92,10 +92,9 @@ background
 </li>
 <li>
 <span class="icon major style3 fa-code"></span>
-<h3>JavaScript Frameworks</h3>
+<h3>Customer Testimonials</h3>
 <p>
-When <a href="https://jquery.com/">jQuery</a> was first appearing I attempted to get my employer at the time to start using it.
-Since then I've been interested in using many different frameworks such as <a href="http://knockoutjs.com/">KnockOut</a>, <a href="http://sammyjs.org/">Sammy.js</a>, <a href="https://modernizr.com/">Modernizr</a> and mostly recently I've been learning <a href="https://angular.io/">Angular</a> (which I hope to do this site in soon).
+We have many happier customers, many who use us on a regular basis to either service or repair thier mobility scooters.  We have grown our business from recomendations from existing customers.  Some customer comments and testimonials are below;
 </p>
 </li>
 <li>
