@@ -1,25 +1,11 @@
 <html lang="en-gb">
 <br>
-<title>Home - Mobility Maintenance Peterboroughk</title>
- <meta charset="utf-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1" />
-<script src="/cdn-cgi/apps/head/8YAkhn5MLshVZzN2-sfKk7FoTH8.js"></script><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400" async />
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha256-eZrrJcwDc/3uDhsdt61sL2oOBY362qM3lon1gyExkL0=" crossorigin="anonymous" async />
-<link rel="stylesheet" href="/Content/stella-main.css" />
-<link rel="icon" href="/favicon.png" />
-<link rel="author" href="https://plus.google.com/u/0/+David Presland/posts" />
-<link rel="manifest" href="/manifest.json" />
-<meta name="apple-mobile-web-app-capable" content="yes" />
-<meta name="apple-mobile-web-app-status-bar-style" content="black" />
-<meta name="apple-mobile-web-app-title" content="StephenJ" />
-<link rel="apple-touch-icon" href="/content/images/icons/sunset152.png" />
-<meta name="msapplication-TileImage" content="/content/images/icons/sunset144.png" />
-<meta name="msapplication-TileColor" content="#2F3BA2" />
-<meta name="theme-color" content="#2F3BA2" />
 </head>
 <body>
 <div id="wrapper">
 <header id="header" class="alt">
+ 
+ 
 <h1>Mobility Maintenance Peterborough</h1>
 </header>
  <br>
