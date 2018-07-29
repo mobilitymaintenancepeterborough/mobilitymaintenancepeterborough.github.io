@@ -30,7 +30,7 @@
 <li><a href="#Customer Testimonials">Customer Testimonials</a></li>
 <li><a href="#Previous Repairs">Services</a></li>
  <li><a href="#contact us">Contact</a></li>
-<li><a href="#Frequently Asked Questions</a></li>
+<li><a href="#Frequently Asked Questions">Frequently Asked Questions</a></li>
 </ul>
 </nav>
 <div id="main">
