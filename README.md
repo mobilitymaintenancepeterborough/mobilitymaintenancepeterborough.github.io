@@ -87,10 +87,13 @@ wording re image.
  <p style="display: block; text-indent: 3em;"<li>yest indent</li></p>
  
 </header>
+
 <ul class="features">
 <li>
-<span class="icon major style1 fa-laptop"></span>  test position of text
-<h3>.Net</h3>
+<span class="icon major style1 fa-laptop">
+ <p style="display: block; text-indent: 3em;">Educational Specifications</p>
+ 
+ <h3>.Net</h3>
 <p>
 background 
 </p>
