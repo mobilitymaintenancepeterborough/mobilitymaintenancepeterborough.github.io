@@ -100,6 +100,7 @@ wording re image.
 <div class="spotlight">
 <div class="content">
 <header class="major">
+ 
 <h2>Customer Feedback</h2>
 </header>
  
@@ -185,11 +186,11 @@ CSS(3)
  
  
 <h2>Frequently asked questions</h2>
+</header>
 <p>
  <ul style="list-style-type:disc">
   <li>How can I get the best from my battery?/li>
-  </p>
-<p>
+ <p>
   <li> There are different views about this./li>
   <li>Tea</li>
   <li>Milk</li>
