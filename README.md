@@ -70,6 +70,12 @@ wording re image.
 
 </div>
 
+<ul style="list-style-type:disc">
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ul>
+
 </section>
 <section id="Services" class="main special">
 <header class="major">
