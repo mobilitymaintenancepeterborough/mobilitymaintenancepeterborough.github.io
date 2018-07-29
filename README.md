@@ -190,7 +190,7 @@ CSS(3)
 <p>
  <ul style="list-style-type:disc">
   <li>How can I get the best from my battery?
-   There are different views about this.
+ <br>  There are different views about this.
  <p>
   
   
