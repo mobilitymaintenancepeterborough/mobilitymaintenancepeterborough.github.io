@@ -10,7 +10,7 @@ Sometimes the problem can be resolved over the phone, saving you time and money.
 <li><a href="#Services">Services</a></li>
 <li><a href="#Customer Testimonials">Customer Testimonials</a></li>
 <li><a href="#Previous Repairs">Previous Repairs</a></li>
- <li><a href="#Contact Us">Contact</a></li>
+ <li><a href="#Contact Us">Contact Us</a></li>
 <li><a href="#Frequently Asked Questions">Frequently Asked Questions</a></li>
 </ul>
 
