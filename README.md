@@ -70,7 +70,8 @@ Our aim is to provide a fast, friendly, reliable and competative service.  We ha
 <header class="major">
 <h2>Services</h2>
  
- 
+ <section id="Customer Feedback" class="main special">
+<header class="major">
 <h2>Customer Feedback</h2>
 </header>
  
@@ -79,7 +80,8 @@ We have many happy customers, many who use us on a regular basis to either servi
 </p>
 </li>
 <li>
-
+<section id="Previous Repairs" class="main special">
+<header class="major">
 <h3>Previous repairs</h3>
 <p>
 I love learning new technology and then showing other people what is out there and how it might help them, be it a new gadget or a framework.
@@ -93,7 +95,10 @@ At my current work place I've done a number of 'lunchtime learning' and bite siz
 
 <section id="abilities" class="main special">
 <header class="major">
-<h2>Contact us</h2>
+ <section id="Contact Us?" class="main special">
+<header class="major">
+ 
+<h2>Contact Us</h2>
 <p>
 When not out and about playing Ingress, I try and keep my knowledge up to date.<br /> Here are a few things I know about...
 </p>
