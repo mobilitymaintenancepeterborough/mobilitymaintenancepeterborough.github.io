@@ -86,14 +86,6 @@ wording re image.
 <li>a full battery test.
  <p style="display: block; text-indent: 3em;"<li>yest indent</li></p>
  
-</header>
-
-<ul class="features">
-<li>
-<span class="icon major style1 fa-laptop">
- <p style="display: block; text-indent: 3em;">Educational Specifications</p>
- 
- <h3>.Net</h3>
 <p>
 background 
 </p>
