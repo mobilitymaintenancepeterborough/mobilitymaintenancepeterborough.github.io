@@ -89,7 +89,6 @@ We have many happy customers, many who use us on a regular basis to either servi
  Gerald R <strong>"Excellent service given I have experienced it very reliable and nice man if he can help you he will"</strong>
  <br>
  <p> 
- <br
  Annie W <strong>"Cannot recommend the lovely man enough.  Top service. Honest. Reliable and so lovely.</strong>
  <br
  <p> 
