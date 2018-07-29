@@ -6,11 +6,11 @@ Sometimes the problem can be resolved over the phone, saving you time and money.
  <br>
  <br>
 <ul>
-<li><a href="#Who Are We?" class="active">Who Are We</a></li>
+<li><a href="#Who Are We?" class="active">Who Are We?</a></li>
 <li><a href="#Services">Services</a></li>
 <li><a href="#Customer Testimonials">Customer Testimonials</a></li>
-<li><a href="#Previous Repairs">Services</a></li>
- <li><a href="#contact us">Contact</a></li>
+<li><a href="#Previous Repairs">Previous Repairss</a></li>
+ <li><a href="#Contact us">Contact</a></li>
 <li><a href="#Frequently Asked Questions">Frequently Asked Questions</a></li>
 </ul>
 
