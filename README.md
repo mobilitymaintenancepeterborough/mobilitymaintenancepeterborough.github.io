@@ -58,16 +58,9 @@ Our aim is to provide a fast, friendly, reliable and competative service.  We ha
   <li>Bodywork repairs.  The repair of damages panels, through to a full repaint.</li>
  <li>Battery replacement.  The batteries we use have been sourced for many years and have been found to be trouble free and reliable, despite being one of the cheapest on the market.</li>
 
-<li>
- <div id="main">
-<section id="intro" class="main">
-<div class="spotlight">
-<div class="content">
+<section id="Customer Testimonials" class="main special">
 <header class="major">
- 
- <section id="Customer Testimonials" class="main special">
-<header class="major">
-<h2>Customer Feedback</h2>
+<h2>Customer Testimonials</h2>
 </header>
  
 <p>
