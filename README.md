@@ -187,11 +187,7 @@ CSS(3)
 I'm a developer who loves what he does, forever learning and trying out new things.
 </p>
 </section>
-<section id="blog">
-<h2>Blog</h2>
-<p>
-I've just started blogging and you can view it on <a href="https://blog.stephenj.co.uk">blog.stephenj.co.uk</a>.
-</p>
+
 </section>
  
 <section id="contact">
