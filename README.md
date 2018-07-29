@@ -83,9 +83,8 @@ wording re image.
     To ensure you get the most from your mobility scooter, we offer a comprehansive service which includes
     <li>Annual Servicing</li> 
     <li>A fully documented inspection of all aspects of your scooter (to include brakes, wheels/tyres, all electrics, fixings, chassis, bodywork, seats and belts).
-<li>a full battery test.
- <p style="display: block; text-indent: 3em;"<li>yest indent</li></p>
- 
+style="padding-left: 3em;"<li>a full battery test.
+ <p style="display: block; text-indent: 3em;"<li>yest indent</li>
 <p>
 background 
 </p>
