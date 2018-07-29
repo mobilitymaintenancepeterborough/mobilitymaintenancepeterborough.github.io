@@ -188,6 +188,7 @@ CSS(3)
 <h2>Frequently asked questions</h2>
 
 <p>
+ 
  <ul style="list-style-type:disc">
   <li><strong>How can I get the best from my battery?</strong>
  <br>  There are different views about how and when you should charge your scooter.  Some manafactures believe that you should charge your scooter straight after use whereas others believe that you should charge your scooter when the battery is getting towards empty.  We recommend you check your scooter manual for advice about how to make the most of your scooter battery.
@@ -198,9 +199,15 @@ CSS(3)
    <li><strong>I haven't used my scooter for a while and now when I go to turn it on it doesn't start, what should I do?</strong>
  <br>  If you haven't used your scooter for a while and haven't charged the batteries in that time, the batteries may need to be replaced.  We are always at hand to help so if you have a problem, please phone us on 07947 436394 so we can advise you further.
     <p>
-   
+    <li><strong>I have left my mobility scooter switched on a while and now it has stopped working, why has this happened?</strong>
+ <br>  Your scooter may have a sleep or power saving mode to preserve battery life.  Try turning the key off and then on again and this may fix the problem.
  <p>
-  
+   <li><strong>My mobility scooter lights aren't working</strong>
+ <br>  A bulb may have come loose during use and simply needs securing, or it may require replacing if old or broken
+    
+    If the bulb is new and securely in place then it may be a loose connection that needs fixing.  
+    
+    These are a few simply checks we recommend before calling for help with repaits, but if you require our help, please phone us on 07947 436394 so we can advise you further.
   
   
 </ul>
