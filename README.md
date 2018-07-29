@@ -121,12 +121,12 @@ text about repairs.
 </form>
  <p>
  </p>
-Please call us on 07947 436294 to discuss your needs.  Please leave a message is we don' answer, with details of the model of your mobiity scooter and the problem and we will aim to get back to you within 24 hours.
+Please call us on  <strong>07947 436294 to discuss your needs.</strong>  Please leave a message is we don' answer, with details of the model of your mobiity scooter and the problem and we will aim to get back to you within 24 hours.
   </p>
   <p>
   <p>
 
-Alternatively, email us on mobilitymaintenancepeterborough.co.uk with details of the model of your mobiity scooter and the problem and we will aim to get back to you within 24 hours.
+Alternatively, email us on <strong>mobilitymaintenancepeterborough.co.uk</strong>with details of the model of your mobiity scooter and the problem and we will aim to get back to you within 24 hours.
   <p>
  <p>
  
