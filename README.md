@@ -39,10 +39,15 @@ Our prices are competative as we are a small team, which means we can offer a co
 <p>
 Our aim is to provide a fast, friendly, reliable and competative service.  We have a genuine interest in the needs of our customers and will go the extra mile to ensure customer satisfaction.  For your convenience, where possible, we will come to your premises to undertake the service / repair.  On occasions this will not be possible, in which case we will take your mobility scooter away to our workshop and return it to you once fixed/serviced and an agreed date and time.
 </p>
-<p>
- <p>
-  <p>
    <p>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
     <p>
 
 <section id="Services" class="main special">
