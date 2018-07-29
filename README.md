@@ -10,6 +10,7 @@
 </header>
  <br>
  <br>
+ <p>
  Do you have a mobility scooter that is broken, slow or just tired.  Mobility Maintenance Peterborough is here to help with all of your repair needs.  With over 15 years experience in maintaining and repairing a wide range of mobility scooters in Peterborough and the surrounding area, we are recognised for providing a fast, friendly, reliable and competetive service. We have a genuine interest in the needs of our customers and will go the extra mile to ensure customer satisfaction.
  
  Sometimes the problem can be resolved over the phone, saving you time and money.  Feel free to contact us on 07947 436394 with detail or your scooter and the problem you are experiencing and we will aim to get you moving (also look at the Frequency Asked Questions section as this may also help you).
@@ -57,28 +58,6 @@ Our prices are competative as we are a small team, which means we can offer a co
 Our aim is to provide a fast, friendly, reliable and competative service.  We have a genuine interest in the needs of our customers and will go the extra mile to ensure customer satisfaction.  For your convenience, where possible, we will come to your premises to undertake the service / repair.  On occasions this will not be possible, in which case we will take your mobility scooter away to our workshop and return it to you once fixed/serviced and an agreed date and time.
 
 <p>
-
-<figure>
-<span class="image">
-<picture>
-<source srcset="/Content/images/MyEyes.webp" type="image/webp">
-<source srcset="/Content/images/MyEyes.jpg" type="image/jpeg">
-<img src="" />
-</picture>
-</span>
-<figcaption>
-wording re image.
-</figcaption>
-</figure>
-
-
-
-<ul style="list-style-type:disc">
-  <li>Coffee</li>
-  <li>Tea</li>
-  <li>Milk</li>
-</ul>
-
 
 <section id="Services" class="main special">
 <header class="major">
