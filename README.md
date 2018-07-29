@@ -110,33 +110,15 @@ We have many happy customers, many who use us on a regular basis to either servi
 
  Shiela A S <strong>"Previous feedback very true, quick efficient and reasonable prices"</strong>
 
- <p> 
  <br>
- <br>
- <br>
- <br>
- <br>
- <br>
- <br>
- <br>
- <br>
- <br>
- <br>
-<p><p>
+<p>
  <p>
   <p>
    <p>
     <p>
      <p>
-      <p><p>
+      <p>
        <p>
-        <p>
-          <p>
-            <p>
-              <p>
-                <p>
-                  <p>
-                    <p>
  
  
  <section id="Previous Repairs" class="main special">
