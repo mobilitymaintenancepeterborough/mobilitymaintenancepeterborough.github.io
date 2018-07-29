@@ -124,14 +124,16 @@ We have many happy customers, many who use us on a regular basis to either servi
 <br>
 <br>
 <p>
- <p>
- <p>
-  <p>
-   <p>
-    <p>
-         <p>
-              <p>
-  
+<p>
+<p>
+<p>
+<p>
+<p>
+<p>
+<p>
+<p>
+<p>
+<p>
  <section id="Previous Repairs" class="main special">
 <header class="major">
 <h2>Previous Repairs</h2>
