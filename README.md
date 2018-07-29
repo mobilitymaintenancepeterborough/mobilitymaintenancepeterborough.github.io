@@ -209,16 +209,12 @@ CSS(3)
     
     These are a few simply checks we recommend before calling for help with repaits, but if you require our help, please phone us on 07947 436394 so we can advise you further.
   
-  
-</ul>
+  <p>
+   <li><strong>Is it normal for my mobility scooter to have a slight delay when switching it on?</strong>
+ <br> As a safety feature, most mobility scooters have a slight delay between turning it on and being able to pull away when you activate the lever.  This feature ensures your safety if, for example, you accidentlally nudge the lever when getting on or off the scooter.
+    
+    If your scooter fails to move after more than just a short delay then it may be that the battery requires changing or there is a more complex fault.  If, once charged, your scooter is still not working then it may be that is needs further investigation to find the cause of the problem.  If you require our help, please phone us on 07947 436394 so we can advise you further.
 
-</p>
-
-
-</p>
-</p>
-
-</section>
 
 <p class="copyright">
 &copy; 2018 - MobilityMaintenancePeterborough.co.uk <br />
