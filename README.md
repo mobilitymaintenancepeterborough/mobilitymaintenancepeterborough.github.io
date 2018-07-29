@@ -30,7 +30,7 @@
  <li><a href="#contact us">Contact</a></li>
 <li><a href="#Frequently Asked Questions">Frequently Asked Questions</a></li>
 </ul>
-</nav>
+
 <div id="main">
 <section id="intro" class="main">
 <div class="spotlight">
@@ -98,13 +98,13 @@ wording re image.
  <section id="Customer Feedback" class="main special">
   <header class="major">
   <li>
-<h3>Customer Testimonials</h3>
+<h2>Customer Testimonials</h2>
 <p>
 We have many happier customers, many who use us on a regular basis to either service or repair thier mobility scooters.  We have grown our business from recomendations from existing customers.  Some customer comments and testimonials are below;
 </p>
 </li>
 <li>
-<span class="icon major style5 fa-exchange"></span>
+
 <h3>Role Model</h3>
 <p>
 I love learning new technology and then showing other people what is out there and how it might help them, be it a new gadget or a framework.
