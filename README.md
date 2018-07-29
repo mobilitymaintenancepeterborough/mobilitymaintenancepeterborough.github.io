@@ -95,6 +95,14 @@ wording re image.
  <li>Battery replacement.  The batteries we use have been sourced for many years and have been found to be trouble free and reliable, despite being one of the cheapest on the market.</li>
 
 <li>
+ <div id="main">
+<section id="intro" class="main">
+<div class="spotlight">
+<div class="content">
+<header class="major">
+<h2>Customer Feedback</h2>
+</header>
+ 
  <section id="Customer Feedback" class="main special">
   <header class="major">
   <li>
