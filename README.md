@@ -214,8 +214,25 @@ CSS(3)
  <br> As a safety feature, most mobility scooters have a slight delay between turning it on and being able to pull away when you activate the lever.  This feature ensures your safety if, for example, you accidentlally nudge the lever when getting on or off the scooter.
     
     If your scooter fails to move after more than just a short delay then it may be that the battery requires changing or there is a more complex fault.  If, once charged, your scooter is still not working then it may be that is needs further investigation to find the cause of the problem.  If you require our help, please phone us on 07947 436394 so we can advise you further.
-
-
+<p>
+   <li><strong>The seat on my mobility scooter wont come off/fit properly.  How can I fix this?</strong>
+ <br>  Some mobility scooters require that the seat be facing to the side or backwards before you can remove or install it.  Check your manual for more information.
+    <p>
+<li><strong>What procedures should I follow to ensure my scooter is in proper running order?</strong>
+ <br>  Like a car, your mobility scooter needs and annual service and regular maintenance.  The annual service will check the correct mechanical.  Your mobility scooter manual will outline the recommended basic scooter maintenance for your model of scooter.  If you would like us to check your scooter feel free to contact us on 07947 436394 to arrange an appointment.
+ 
+ Please note that a routine annual service is not the same as a fault finding diagnostic service
+ 
+    <p>
+     
+   <li><strong>The tiller on my mobility scooter is loose and won't stay in place.  How can I tighten it?</strong>
+ <br>  Each mobility scooter is different, but you will usually find the tiller release level on the bottom of the tiller.  For more information check your manual which should advise how to tighten your tiller.
+    <p>
+     <li><strong>I have checked everything and it has good batteries but my scooter won't move.</strong>
+ <br>  Each mobility scooter will have a lever or knob that allows the scooter to be pushed when required.  If it isnt in the drive positio your scooter will not work.  Put your scooter into the drive position, turn the ignition off then on again and you should find it will work.  
+     
+     
+     
 <p class="copyright">
 &copy; 2018 - MobilityMaintenancePeterborough.co.uk <br />
 
