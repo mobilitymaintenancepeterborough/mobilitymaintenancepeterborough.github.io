@@ -81,11 +81,8 @@ At my current work place I've done a number of 'lunchtime learning' and bite siz
 </footer>
 </section>
 
-<section id="abilities" class="main special">
+ <section id="Contact Us" class="main special">
 <header class="major">
- <section id="Contact Us?" class="main special">
-<header class="major">
- 
 <h2>Contact Us</h2>
 <p>
 When not out and about playing Ingress, I try and keep my knowledge up to date.<br /> Here are a few things I know about...
@@ -147,7 +144,8 @@ CSS(3)
 <footer id="footer">
 <section>
  
- 
+<section id="Frequently asked questions" class="main special">
+<header class="major">
 <h2>Frequently asked questions</h2>
 
 <p>
