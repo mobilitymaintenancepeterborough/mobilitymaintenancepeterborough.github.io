@@ -89,7 +89,6 @@ wording re image.
   <li>a report of our findings and any recommendations, which we will talk through with you.</li>
 </li>
 <li>
-<span class="icon major style3 fa-code"></span>
 <h3>Customer Testimonials</h3>
 <p>
 We have many happier customers, many who use us on a regular basis to either service or repair thier mobility scooters.  We have grown our business from recomendations from existing customers.  Some customer comments and testimonials are below;
