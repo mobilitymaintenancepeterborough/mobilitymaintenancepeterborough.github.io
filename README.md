@@ -81,27 +81,27 @@ Our aim is to provide a fast, friendly, reliable and competative service.  We ha
 </header>
  
 <p>
-We have many happy customers, many who use us on a regular basis to either service or repair thier mobility scooters.  We have grown our business from recomendations from existing customers.  Some customer comments and testimonials are below;
+We have many happy customers, many who use us on a regular basis to either service or repair thier mobility scooters.  We have grown our business from recomendations from existing customers.  Some recent customer comments and testimonials are below;
 </p>
 <br>
 <p>
  
- Gerald R "Excellent service given I have experienced it very reliable and nice man if he can help you he will"
+ Gerald R <strong>"Excellent service given I have experienced it very reliable and nice man if he can help you he will"</strong>
  <br>
  <br>
- Annie W "Cannot recommend the lovely man enough.  Top service. Honest. Reliable and so lovely.
- <br>
- <p> 
- <br>
- Lyn P B "David came to my house and sorted out my mobility scooter quickly and efficiently and the price was great !  The scooter is working like new"
+ Annie W <strong>"Cannot recommend the lovely man enough.  Top service. Honest. Reliable and so lovely.</strong>
  <br>
  <p> 
  <br>
- Dai RO "First class service and prompt.  Will definitely use again if needed"
+ Lyn P B <strong>"David came to my house and sorted out my mobility scooter quickly and efficiently and the price was great !  The scooter is working like new"</strong>
+ <br>
+ <p> 
+ <br>
+ Dai RO <strong>"First class service and prompt.  Will definitely use again if needed"</strong>
  <br>
   <p> 
  <br>
- Shiela A S "Previous feedback very true, quick efficient and reasonable prices"
+ Shiela A S <strong>"Previous feedback very true, quick efficient and reasonable prices"</strong>
  <br>
    <p> 
  <br>
