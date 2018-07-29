@@ -67,21 +67,18 @@ Our aim is to provide a fast, friendly, reliable and competative service.  We ha
   Including supplying and fitting replacement batteries and charger.  High quality parts are used.</li>
   <li>Bodywork repairs.  The repair of damages panels, through to a full repaint.</li>
  <li>Battery replacement.  The batteries we use have been sourced for many years and have been found to be trouble free and reliable, despite being one of the cheapest on the market.</li>
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<p>
- <p>
+</p>
+   <p>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <p>
 
 <section id="Customer Testimonials" class="main special">
 <header class="major">
