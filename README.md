@@ -45,7 +45,7 @@ My name is David and I am the owner of Mobility Maintenance Peterborough and my 
 I'm often asked "why mobility scooter repairs" and "How can we be so competitive?" 
 </p>
 <p>
-We understand how important it is to be able to rely on your mobility scooter and the independence they can provide.   We will always do our best to "Keep You Moving" and we take pride in our work and take the time to understand the needs of every customer.
+We understand how important it is to be able to rely on your mobility scooter and the independence they can provide.   We will always do our best to <strong>"Keep You Moving"</strong> and we take pride in our work and take the time to understand the needs of every customer.
 </p>
 <p> 
 Our prices are competative as we are a small team, which means we can offer a consitent, reliable service and treat each customer as an individual.  We don't have the overheads of running a shop, we undertake repairs at our workshop and prefer to make a small profit and have satisfied customers, many of which use our services time after time. It really is as simple as that.  <strong>I'm Bold!</strong> and <b>I'm Bold Too!</b>
