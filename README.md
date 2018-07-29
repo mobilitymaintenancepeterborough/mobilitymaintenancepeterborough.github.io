@@ -106,7 +106,7 @@ We have many happy customers, many who use us on a regular basis to either servi
  
  <section id="Previous Repairs" class="main special">
 <header class="major">
-<h2>Previous Reepairs</h2>
+<h2>Previous Repairs</h2>
 <p>
 examples of previous repairs undertaken
  
