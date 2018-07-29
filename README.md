@@ -119,7 +119,11 @@ examples of previous repairs undertaken
 
  <p>
 <input style="width: 300px; padding: 20px; box-shaddow: 6px 6px 5px; #999999; -webkit-box-shadow: 6px 6px 5px #999999; -moz-box-shadow: 6px 6px 5px #999999; font-weight: bold; background: #CCFF00; color: #000000; cursor: pointer; border-radius: 10px; border: 1px solid #D9D9D9; font-size: 150%;" type="button" value="Send eMail" onclick="window.location.href='mailto:mobilitymaintenancepeterborough.co.uk'" />
-
+</p>
+  <p> <p>
+  <p>
+    <p>
+      <p> 
 Please call us on  <strong>07947 436294 to discuss your needs.</strong>  Please leave a message is we don't answer, with details of the model of your mobiity scooter and the problem and we will aim to get back to you within 24 hours.
   </p>
   <p>
