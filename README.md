@@ -80,6 +80,7 @@ wording re image.
 <section id="Services" class="main special">
 <header class="major">
 <h2>Services</h2>
+<li>Coffee</li> 
 </header>
 <ul class="features">
 <li>
