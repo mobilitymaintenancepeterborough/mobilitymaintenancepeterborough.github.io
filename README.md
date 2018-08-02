@@ -143,8 +143,8 @@ We have many happy customers, many who use us on a regular basis to either servi
  <br>
 <br>A recent scooter with significant body damage in for repair.
  </ol>
-<img 
-     https://www.dropbox.com/s/g0mgnshd5cp6409/Photo%2031-07-2018%2C%2014%2010%2050.jpg?dl=0 width="100">
+<img ![photo 31-07-2018 17 29 20](https://user-images.githubusercontent.com/41233842/43573651-21659b14-963a-11e8-8634-2965b0562d88.jpg
+width="100")
 <br>
   <br> After the body and pain repairs had been completed
 <br>
