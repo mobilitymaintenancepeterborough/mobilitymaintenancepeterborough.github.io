@@ -140,11 +140,14 @@ We have many happy customers, many who use us on a regular basis to either servi
  <section id="Previous Repairs" class="main special">
 <header class="major">
 <h2>Previous Repairs</h2>
+ <br>
 <br>A recent scooter with significant body damage in for repair.
  </ol>
-<img src="https://www.dropbox.com/s/74qwhrqzwd7wnyk/Photo%2031-07-2018%2C%2017%2029%2016.jpg?dl=0" width="100" alt="This is some text">
-<br> After the body and pain repairs had been completed
-<br>examples of previous repairs undertaken
+<img src="https://www.dropbox.com/s/74qwhrqzwd7wnyk/Photo%2031-07-2018%2C%2017%2029%2016.jpg?dl=0" width="100">
+<br>
+  <br> After the body and pain repairs had been completed
+<br>
+  <br>examples of previous repairs undertaken
 
 <br>
 <br>
