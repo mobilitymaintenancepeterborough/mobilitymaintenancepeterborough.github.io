@@ -241,8 +241,7 @@ These are a few simply checks we recommend before calling for help with repaits,
     <p>
 <li><strong>What procedures should I follow to ensure my scooter is in proper running order?</strong>
  <br>  Like a car, your mobility scooter needs and annual service and regular maintenance.  The annual service will check the correct mechanical.  Your mobility scooter manual will outline the recommended basic scooter maintenance for your model of scooter.  If you would like us to check your scooter feel free to contact us on 07947 436394 to arrange an appointment.
- 
-<br> Please note that a routine annual service is not the same as a fault finding diagnostic service
+ <br> Please note that a routine annual service is not the same as a fault finding diagnostic service
      <p>
     <li><strong>The tiller on my mobility scooter is loose and won't stay in place.  How can I tighten it?</strong>
  <br>  Each mobility scooter is different, but you will usually find the tiller release level on the bottom of the tiller.  For more information check your manual which should advise how to tighten your tiller.
