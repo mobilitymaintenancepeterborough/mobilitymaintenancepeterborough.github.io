@@ -142,7 +142,13 @@ We have many happy customers, many who use us on a regular basis to either servi
 <h2>Previous Repairs</h2>
  <br>
 <br>A recent scooter with significant body damage in for repair.
-<br>
+<br> 
+    <img 
+    src="https://static.boredpanda.com/blog/wp-content/uploads/2018/04/handicapped-cat-rexie-the-handicat-dasha-minaeva.jpg" 
+    width="100"
+    alt="This is some text">
+    <div id="bottom">
+        This is the bottom
 <br>
   <br> After the body and pain repairs had been completed
 <br>
