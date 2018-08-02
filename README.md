@@ -228,11 +228,9 @@ Alternatively, email us <strong> <input style="width: 100px; padding: 12x; box-s
  <br>  Your scooter may have a sleep or power saving mode to preserve battery life.  Try turning the key off and then on again and this may fix the problem.
  <p>
    <li><strong>My mobility scooter lights aren't working</strong>
- <br>  A bulb may have come loose during use and simply needs securing, or it may require replacing if old or broken
-    If the bulb is new and securely in place then it may be a loose connection that needs fixing.  
-    These are a few simply checks we recommend before calling for help with repaits, but if you require our help, please phone us on 07947 436394 so we can advise you further.
-  
-  <p>
+ <br>  A bulb may have come loose during use and simply needs securing, or it may require replacing if old or broken.  If the bulb is new and securely in place then it may be a loose connection that needs fixing.  
+    <br>These are a few simply checks we recommend before calling for help with repaits, but if you require our help, please phone us on 07947 436394 so we can advise you further.
+    <p>
    <li><strong>Is it normal for my mobility scooter to have a slight delay when switching it on?</strong>
  <br> As a safety feature, most mobility scooters have a slight delay between turning it on and being able to pull away when you activate the lever.  This feature ensures your safety if, for example, you accidentlally nudge the lever when getting on or off the scooter.
     
