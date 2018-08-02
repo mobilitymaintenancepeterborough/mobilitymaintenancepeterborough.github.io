@@ -234,8 +234,7 @@ These are a few simply checks we recommend before calling for help with repaits,
     <p>
    <li><strong>Is it normal for my mobility scooter to have a slight delay when switching it on?</strong>
  <br> As a safety feature, most mobility scooters have a slight delay between turning it on and being able to pull away when you activate the lever.  This feature ensures your safety if, for example, you accidentlally nudge the lever when getting on or off the scooter.
-    
-    If your scooter fails to move after more than just a short delay then it may be that the battery requires changing or there is a more complex fault.  If, once charged, your scooter is still not working then it may be that is needs further investigation to find the cause of the problem.  If you require our help, please phone us on 07947 436394 so we can advise you further.
+<br>If your scooter fails to move after more than just a short delay then it may be that the battery requires changing or there is a more complex fault.  If, once charged, your scooter is still not working then it may be that is needs further investigation to find the cause of the problem.  If you require our help, please phone us on 07947 436394 so we can advise you further.
 <p>
    <li><strong>The seat on my mobility scooter wont come off/fit properly.  How can I fix this?</strong>
  <br>  Some mobility scooters require that the seat be facing to the side or backwards before you can remove or install it.  Check your manual for more information.
