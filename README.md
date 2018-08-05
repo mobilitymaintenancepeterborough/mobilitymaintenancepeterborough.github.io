@@ -151,6 +151,9 @@ We have many happy customers, many who use us on a regular basis to either servi
     width="100"
     alt="This is some text">
     <div id="bottom">
+     
+     ![alternativetext](https://user-images.githubusercontent.com/41233842/43689205-a4c03a44-98ee-11e8-8ffd-77ed49fdd804.jpg)
+     
         This is the bottom
 <br>
   <br> After the body and pain repairs had been completed
