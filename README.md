@@ -164,6 +164,12 @@ We have many happy customers, many who use us on a regular basis to either servi
   <br>examples of previous repairs undertaken
 
 <br>
+<br>     
+     <img 
+    src="https://1drv.ms/u/s!An5-UiGdXEabrW44E_pi2f0qLabF.jpg" 
+    width="100"
+https://1drv.ms/u/s!An5-UiGdXEabrW44E_pi2f0qLabF
+
 <br>
 <br>
 <br>
