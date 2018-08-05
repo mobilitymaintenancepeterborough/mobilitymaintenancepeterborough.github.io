@@ -282,7 +282,10 @@ These are a few simply checks we recommend before calling for help with repaits,
  <br>  Each mobility scooter is different, but you will usually find the tiller release level on the bottom of the tiller.  For more information check your manual which should advise how to tighten your tiller.
     <p>
      <li><strong>I have checked everything and it has good batteries but my scooter won't move.</strong>
- <br>  Each mobility scooter will have a lever or knob that allows the scooter to be pushed when required.  If it isnt in the drive positio your scooter will not work.  Put your scooter into the drive position, turn the ignition off then on again and you should find it will work.  
+ <br>  Each mobility scooter will have a lever or knob that allows the scooter to be pushed when required.  If it isnt in the drive positio your scooter will not work.  Put your scooter into the drive position, turn the ignition off then on again and you should find it will work. 
+      <p>
+     <li><strong>Can I get another key for my mobility scooter?</strong>
+ <br>  Yes, you can buy a new key for only a few pounds.  Please contact me for more infomation. 
      
      
      
