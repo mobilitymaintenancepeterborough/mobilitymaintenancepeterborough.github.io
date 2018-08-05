@@ -177,8 +177,10 @@ We have many happy customers, many who use us on a regular basis to either servi
      
      <img
      img id=“image_canv” src="/image.png" rotate=“90”
-     src="https://user-images.githubusercontent.com/41233842/43689654-beda4f12-98f5-11e8-8c75-5138703cd36e.jpg"
+     src="https://user-images.githubusercontent.com/41233842/43689654-beda4f12-98f5-11e8-8c75-5138703cd36e.jpg?fixOrientation"
       width="200" height="400" />
+
+|fixOrientation` in the Twig (or `?fixOrientation` in the Markdown of the page (example: `![](Portrait_1.jpg?fixOrientation)`).
 
     <div id="bottom">
 <br>
