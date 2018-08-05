@@ -165,6 +165,7 @@ We have many happy customers, many who use us on a regular basis to either servi
 
 <br>
 <br>     A great, waterproof, easy to use mobility scooter shelter.  These bolt to the floor for security and stability.  I can supply and fit these from £155
+<br>
      <img 
     src="https://user-images.githubusercontent.com/41233842/43689485-563a8b86-98f3-11e8-9bf8-e106c14b45f0.jpg"
      width="100"
@@ -173,8 +174,9 @@ We have many happy customers, many who use us on a regular basis to either servi
     src="https://user-images.githubusercontent.com/41233842/43689489-6350fd14-98f3-11e8-85d5-b370cc53f889.jpg"
     width="200" height="400" />
      <br>
-     img id=“image_canv” src="/image.png" rotate=“90”
+     
      <img
+     img id=“image_canv” src="/image.png" rotate=“90”
      src="https://user-images.githubusercontent.com/41233842/43689654-beda4f12-98f5-11e8-8c75-5138703cd36e.jpg"
       width="200" height="400" />
 
