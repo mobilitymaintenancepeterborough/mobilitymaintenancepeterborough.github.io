@@ -166,10 +166,11 @@ We have many happy customers, many who use us on a regular basis to either servi
 <br>
 <br>     
      <img 
-    src="https://1drv.ms/u/s!An5-UiGdXEabrW44E_pi2f0qLabF.jpg" 
-    width="100"
-https://1drv.ms/u/s!An5-UiGdXEabrW44E_pi2f0qLabF
-
+    src="https://user-images.githubusercontent.com/41233842/43689485-563a8b86-98f3-11e8-9bf8-e106c14b45f0.jpg"
+    <br> 
+      <img 
+    src="https://user-images.githubusercontent.com/41233842/43689489-6350fd14-98f3-11e8-85d5-b370cc53f889.jpg"
+    <div id="bottom">
 <br>
 <br>
 <br>
