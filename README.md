@@ -152,6 +152,10 @@ We have many happy customers, many who use us on a regular basis to either servi
     alt="This is some text">
     <div id="bottom">
      
+     <img 
+    src="https://user-images.githubusercontent.com/41233842/43689205-a4c03a44-98ee-11e8-8ffd-77ed49fdd804.jpg" 
+    width="100"
+    
      ![alternativetext](https://user-images.githubusercontent.com/41233842/43689205-a4c03a44-98ee-11e8-8ffd-77ed49fdd804.jpg)
      
         This is the bottom
