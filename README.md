@@ -67,6 +67,7 @@ Our aim is to provide a fast, friendly, reliable and competative service.  We ha
   Including supplying and fitting replacement batteries and charger.  High quality parts are used.</li>
   <li>Bodywork repairs.  The repair of damages panels, through to a full repaint.</li>
  <li>Battery replacement.  The batteries we use have been sourced for many years and have been found to be trouble free and reliable, despite being one of the cheapest on the market.</li>
+ <li>Supply and fit mobility scooter shelters 
 </p>
    <p>
     <br>
@@ -109,7 +110,9 @@ We have many happy customers, many who use us on a regular basis to either servi
 
  Shiela A S <strong>"Previous feedback very true, quick efficient and reasonable prices"</strong>
  
- 
+ Mo <strong> "Have had 2 trouble free years on the scooter he repaired for me after I was told it was unrepairable by another company. A very polite and helpful man and i can thoroughly recommend him."</strong>
+
+
 <br>
 <br>
 <br>
