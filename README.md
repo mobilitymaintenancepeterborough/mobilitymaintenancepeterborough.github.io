@@ -172,7 +172,7 @@ We have many happy customers, many who use us on a regular basis to either servi
     
     <br>
      <img 
-    src="https://db.tt/WRMNAQg66i"
+    src="https://db.tt/WRMNAQg66i.jpg"
      width="100" height "100"
     <br> 
     
