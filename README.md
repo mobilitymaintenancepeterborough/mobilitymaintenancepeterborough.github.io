@@ -175,7 +175,7 @@ We have many happy customers, many who use us on a regular basis to either servi
     width="200" height="400" />
      <br>
      <img 
-     src="https://user-images.githubusercontent.com/41233842/43689654-beda4f12-98f5-11e8-8c75-5138703cd36e.jpg" style="transform:rotate(90deg);">
+     src="https://user-images.githubusercontent.com/41233842/43689654-beda4f12-98f5-11e8-8c75-5138703cd36e.jpg" style="transform:rotate(180deg);">
      
     <br>
 <div id="bottom">
