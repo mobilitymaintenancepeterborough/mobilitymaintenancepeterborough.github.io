@@ -209,7 +209,10 @@ mailto:deb@empirerecords.biz
 <h2>Contact Us</h2>
 <p>
   <p>
-    <p> mailto:mobilitymaintenancepeterborough@hotmail.com    
+    <p>
+     
+     <br> mailto:mobilitymaintenancepeterborough@hotmail.com  
+     <div id="bottom".
       <p> 
 Please call us on  <strong> <font size="+2">07947 436294 </font> to discuss your needs. </strong>  Please leave a message if we don't answer, with details of the model of your mobility scooter and the problem and we will aim to get back to you within 24 hours.
   </p>
