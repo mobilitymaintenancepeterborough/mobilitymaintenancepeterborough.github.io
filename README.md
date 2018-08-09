@@ -140,7 +140,7 @@ We have many happy customers, many who use us on a regular basis to either servi
 <p>
 <p>
 <p>
- <section id="Previous Repairs" class="main special">
+<section id="Previous Repairs" class="main special">
 <header class="major">
 <h2>Previous Repairs</h2>
  <br>
@@ -176,7 +176,7 @@ We have many happy customers, many who use us on a regular basis to either servi
      width="100" height "100"
     <br> 
     
-    
+mailto:deb@empirerecords.biz    
     
          <div id="bottom">
 <br>
@@ -209,7 +209,7 @@ We have many happy customers, many who use us on a regular basis to either servi
 <h2>Contact Us</h2>
 <p>
   <p>
-    <p>
+    <p> mailto:mobilitymaintenancepeterborough@hotmail.com    
       <p> 
 Please call us on  <strong> <font size="+2">07947 436294 </font> to discuss your needs. </strong>  Please leave a message if we don't answer, with details of the model of your mobility scooter and the problem and we will aim to get back to you within 24 hours.
   </p>
