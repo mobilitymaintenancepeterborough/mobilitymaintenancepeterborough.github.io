@@ -196,6 +196,8 @@ We have many happy customers, many who use us on a regular basis to either servi
 <br>
 <br>
 <br>
+
+
 <br>
             <p>
 
@@ -217,10 +219,32 @@ Please call us on  <strong> <font size="+2">07947 436294 </font> to discuss your
   <p>
   <p>
  <p>
-Alternatively, email us at <strong> <input style="width: 100px; padding: 12x; box-shaddow: 6px 6px 5px; #999999; -webkit-box-shadow: 2px 2px 1px #999999; -moz-box-shadow: 2px 2px 1px #999999; font-weight: bold; background: #CCFF00; color: #000000; cursor: pointer; border-radius: 2px; border: 1px solid #D9D9D9; font-size: 70%;" type="button" value="Send eMail" onclick="window.location.href='mailto:mobilitymaintenancepeterborough@hotmail.com'"/>   </strong>                    with details of the model of your mobiity scooter and the problem and we will aim to get back to you within 24 hours.
+Alternatively, email us at 
+  
+<strong> <input style="width: 100px; padding: 12x; box-shaddow: 6px 6px 5px; #999999; -webkit-box-shadow: 2px 2px 1px #999999; -moz-box-shadow: 2px 2px 1px #999999; font-weight: bold; background: #CCFF00; color: #000000; cursor: pointer; border-radius: 2px; border: 1px solid #D9D9D9; font-size: 70%;" type="button" value="Send eMail" onclick="window.location.href='mailto:mobilitymaintenancepeterborough@hotmail.com'"/>   </strong>                    with details of the model of your mobiity scooter and the problem and we will aim to get back to you within 24 hours.
   <p>
  <p>
         <br>
+  
+  HTML (with Bootstrap styles):
+<p><input id="subject" type="text" placeholder="type your subject here" 
+    class="form-control"></p>
+<p><input id="message" type="text" placeholder="type your message here" 
+    class="form-control"></p>
+<p><a id="mail-link" class="btn btn-primary">Create email</a></p>
+
+
+<form action="mailto:mobilitymaintenancepeterborough@hotmail.com  enctype="text/plain">
+ Name:<br>
+<input type="text" name="name"><br>
+ E-mail:<br>
+<input type="text" name="mail"><br>
+Comment:<br>
+<input type="text" name="comment" size="50"><br><br>
+<input type="submit" value="Send">
+<input type="reset" value="Reset">
+ 
+ 
 <br>
 <br>
 <br>
