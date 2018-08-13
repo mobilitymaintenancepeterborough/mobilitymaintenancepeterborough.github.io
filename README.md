@@ -264,10 +264,11 @@ Alternatively, email us at <strong> <font size="+2">  < a href="mailto:mobilitym
   </p>
   <p>
            <br>
-   
+  
 <a href="mailto:mobilitymaintenancepeterborough.com">SEND</a> ?subject=Email%20Subject">Mobility Scooter Enquiry</a> ). 
-
-
+<body>
+<a href="mailto:mobilitymaintenancepeterborough.com"> Send Feedback</a>
+<body>
   <br>
 <br>
 <br>
