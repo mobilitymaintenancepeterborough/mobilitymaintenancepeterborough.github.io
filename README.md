@@ -145,19 +145,17 @@ We have many happy customers, many who use us on a regular basis to either servi
 <h2>Previous Repairs</h2>
  <br>
 <br>A recent scooter with significant body damage in for repair.
-<br> 
-    <img 
-    src="https://static.boredpanda.com/blog/wp-content/uploads/2018/04/handicapped-cat-rexie-the-handicat-dasha-minaeva.jpg" 
-    width="100" height="100"
-    alt="This is some text">
-    <div id="bottom">
-<br>     
+
+
      <img 
     src="https://user-images.githubusercontent.com/41233842/43689205-a4c03a44-98ee-11e8-8ffd-77ed49fdd804.jpg" 
         width="100" height="100"
      alt="This is some text">
     <div id="bottom">
 <br>
+
+
+
   <br> After the body and pain repairs had been completed
 <br>
   <br>examples of previous repairs undertaken
@@ -165,17 +163,7 @@ We have many happy customers, many who use us on a regular basis to either servi
 <br>
 <br>     A great, waterproof, easy to use mobility scooter shelter.  These bolt to the floor for security and stability.  I can supply and fit these from £155
 <br>
-     <img 
-    src="https://user-images.githubusercontent.com/41233842/43689485-563a8b86-98f3-11e8-9bf8-e106c14b45f0.jpg"
-     width="100"
-    <br> 
-    
-<br>
-     <img 
-    src="https://user-images.githubusercontent.com/41233842/44017733-45ab12fc-9ed1-11e8-87b4-123afb2d3246.jpg"
-     width="100" height "100"
-     <br> 
-     <br>
+   
 <br>
      <img 
     src="https://user-images.githubusercontent.com/41233842/44017733-45ab12fc-9ed1-11e8-87b4-123afb2d3246.jpg"
