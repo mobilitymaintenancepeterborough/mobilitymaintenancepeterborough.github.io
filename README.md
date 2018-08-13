@@ -265,25 +265,7 @@ Alternatively, email us at <strong> <font size="+2"> mailto:mobilitymaintenancep
  <p>
         <br>
   
-<form action="mailto:mobilitymaintenancepeterborough@hotmail.com  enctype="text/plain">
- Name:<br>
-<input type="text" name="name"><br>
- E-mail:<br>
-<input type="text" name="mail"><br>
-Comment:<br>
-<input type="text" name="comment" size="50"><br><br>
-<input type="submit" value="Send">
-<input type="reset" value="Reset">
- 
- 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
 <br>
 <br>
 <br>
