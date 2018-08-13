@@ -172,9 +172,16 @@ We have many happy customers, many who use us on a regular basis to either servi
     
     <br>
      <img 
-    src="https://db.tt/WRMNAQg66i.jpg"
+    src="https://user-images.githubusercontent.com/41233842/44017733-45ab12fc-9ed1-11e8-87b4-123afb2d3246.jpg"
      width="100" height "100"
     <br> 
+     
+     <br>
+     <img 
+    src="![photo 12-08-2018 20 06 06] https://user-images.githubusercontent.com/41233842/44017733-45ab12fc-9ed1-11e8-87b4-123afb2d3246.jpg"
+     width="100" height "100"
+    <br>
+            
             
 <br>
 <br>
