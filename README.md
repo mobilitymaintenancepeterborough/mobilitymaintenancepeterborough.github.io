@@ -1,7 +1,20 @@
 <h1>Mobility Maintenance Peterborough</h1>
 
-<body background="bgimage.jpg">
-</body>
+<style>
+body {
+    background-color: #93B874;
+}
+h1 {
+    background-color: orange;
+}
+}
+h2 {
+    background-color: red;
+} 
+p {
+    background-color: rgb(255,0,0);
+}
+</style>
 
 
  <p>
