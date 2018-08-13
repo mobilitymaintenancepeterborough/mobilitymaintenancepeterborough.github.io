@@ -259,7 +259,7 @@ We have many happy customers, many who use us on a regular basis to either servi
   <p>
   <p>
  <p>
-Alternatively, email us at mobilitymaintenancepeterborough@hotmail.com by using the SEND EMAIL button below, together with details of the make and model of your mobiity scooter and the problem and we will aim to get back to you within 24 hours.
+Alternatively, email us at mobilitymaintenancepeterborough@hotmail.com by using the <strong> <font size="6"> SEND EMAIL </font> </STRONG> button below, together with details of the make and model of your mobiity scooter and the problem and we will aim to get back to you within 24 hours.
   </p>
  
  <body>
