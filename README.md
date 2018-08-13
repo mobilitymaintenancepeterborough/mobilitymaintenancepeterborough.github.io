@@ -16,14 +16,6 @@ Sometimes the problem can be resolved over the phone, saving you time and money.
 </ul>
 
 <br>
-style>
-body {background-color: powderblue;}
-h1   {color: blue;}
-p    {color: red;}
-</style>
-</head>
-<body>
-<br>
 <br>
 <br>
 <br>
@@ -281,7 +273,7 @@ We are always keen to receive feedback from our customers, to either let us know
   </p>
   
 <body>
-<a href="mailto:mobilitymaintenancepeterborough@hotmail.com?subject=Feedback"> Send Feedback</a>
+<a <b> href="mailto:mobilitymaintenancepeterborough@hotmail.com?subject=Feedback"> Send Feedback <b> </a>
 <body>
   <br>
 <br>
