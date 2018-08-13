@@ -258,12 +258,12 @@ Please call us on  <strong> <font size="+8">07947 436294 </font> to discuss your
   </p>
   <p>
   <p>
-  <p>
  <p>
-Alternatively, email us at mobilitymaintenancepeterborough@hotmail.com by using the  <font color="blue> SEND EMAIL </FONT> button below, together with details of the make and model of your mobiity scooter and the problem and we will aim to get back to you within 24 hours.
+Alternatively, email us at mobilitymaintenancepeterborough@hotmail.com by using the SEND EMAIL button below, together with details of the make and model of your mobiity scooter and the problem and we will aim to get back to you within 24 hours.
   </p>
+ 
  <body>
-<strong> <font size="+5">  <a href="mailto:mobilitymaintenancepeterborough@hotmail.com?subject=MOBILITY SCOOTER ENQUIRY"> SEND EMAIL  </a> </strong>
+<strong> <a href="mailto:mobilitymaintenancepeterborough@hotmail.com?subject=MOBILITY SCOOTER ENQUIRY"> SEND EMAIL  </a> </strong>
 <body>
   <br> 
   <p>
