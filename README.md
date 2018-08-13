@@ -11,7 +11,8 @@ Sometimes the problem can be resolved over the phone, saving you time and money.
 <li><a href="#Customer Testimonials">Customer Testimonials</a></li>
 <li><a href="#Previous Repairs">Previous Repairs</a></li>
  <li><a href="#Contact Us">Contact Us</a></li>
-<li><a href="#Frequently Asked Questions">Frequently Asked Questions</a></li>
+ <li><a href="#Feedback">Feedback</a></li>
+ <li><a href="#Frequently Asked Questions">Frequently Asked Questions</a></li>
 </ul>
 
 <br>
@@ -263,7 +264,13 @@ Please call us on  <strong> <font size="+2">07947 436294 </font> to discuss your
 Alternatively, email us at <strong> <font size="+2">  < a href="mailto:mobilitymaintenancepeterborough@hotmail.com">SEND< /a>" mailto:mobilitymaintenancepeterborough@hotmail.com  </font> </strong> with details of the model of your mobiity scooter and the problem and we will aim to get back to you within 24 hours.
   </p>
   <p>
-           <br>
+     
+     p>
+<section id="Feedback" class="main special">
+<header class="major">
+<h2>Feedback</h2>
+<p>
+ <br>
   <p>
 We are always keen to receive feedback from our customers, to either let us know what we are doing well but also areas where we can improve the customer experience.  I review all feedback received personally.  To send your feedback, please use the button below.
   </p>
