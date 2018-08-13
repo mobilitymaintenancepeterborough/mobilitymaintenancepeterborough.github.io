@@ -255,12 +255,12 @@ We have many happy customers, many who use us on a regular basis to either servi
 <p>
   <p>
     <p>
-     Please call us on  <strong> <font size="6"> 07947 436294 </font> </STRONG> to discuss your needs. Please leave a message if we don't answer, with details of the model of your mobility scooter and the problem and we will aim to get back to you within 24 hours.
+     Please call us on  <strong> <font size="3"> 07947 436294 </font> </STRONG> to discuss your needs. Please leave a message if we don't answer, with details of the model of your mobility scooter and the problem and we will aim to get back to you within 24 hours.
   </p>
   <p>
   <p>
  <p>
-Alternatively, email us at mobilitymaintenancepeterborough@hotmail.com by using the <strong> <font size="6"> SEND EMAIL </font> </STRONG> button below, together with details of the make and model of your mobiity scooter and the problem and we will aim to get back to you within 24 hours.
+Alternatively, email us at mobilitymaintenancepeterborough@hotmail.com by using the <strong> <font size="3"> SEND EMAIL </font> </STRONG> button below, together with details of the make and model of your mobiity scooter and the problem and we will aim to get back to you within 24 hours.
   </p>
  
  <body>
@@ -268,6 +268,14 @@ Alternatively, email us at mobilitymaintenancepeterborough@hotmail.com by using 
 <body>
   <br> 
   <p>
+    <p>
+      <p>
+        <p>
+          <p>
+            <p>
+              <p>
+                <p>
+                  <p>
      
 <section id="Feedback" class="main special">
 <header class="">
