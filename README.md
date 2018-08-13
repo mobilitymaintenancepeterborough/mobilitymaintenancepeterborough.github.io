@@ -175,11 +175,11 @@ We have many happy customers, many who use us on a regular basis to either servi
     src="https://user-images.githubusercontent.com/41233842/44017733-45ab12fc-9ed1-11e8-87b4-123afb2d3246.jpg"
      width="100" height "100"
      <br> 
-     
+     <br>
 <br>
      <img 
-    src="![photo 12-08-2018 20 06 06] https://user-images.githubusercontent.com/41233842/44017733-45ab12fc-9ed1-11e8-87b4-123afb2d3246.jpg"
-     width="100" height "100"
+    src="https://user-images.githubusercontent.com/41233842/44017733-45ab12fc-9ed1-11e8-87b4-123afb2d3246.jpg"
+     width="200" height "300"
     <br>
             
             
