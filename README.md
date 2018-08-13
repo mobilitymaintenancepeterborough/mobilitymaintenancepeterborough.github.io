@@ -265,7 +265,7 @@ Alternatively, email us at <strong> <font size="+2">  < a href="mailto:mobilitym
   <p>
            <br>
   <p>
-We are always keen to receive feedback from our customers, to either let us know what we are doing well but also areas where we can improve, so that we can improve the customer experience.  I review all feedback received personally.  To send your feedback, please use the button below.
+We are always keen to receive feedback from our customers, to either let us know what we are doing well but also areas where we can improve the customer experience.  I review all feedback received personally.  To send your feedback, please use the button below.
   </p>
   <p>
 
