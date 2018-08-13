@@ -16,6 +16,13 @@ Sometimes the problem can be resolved over the phone, saving you time and money.
 </ul>
 
 <br>
+style>
+body {background-color: powderblue;}
+h1   {color: blue;}
+p    {color: red;}
+</style>
+</head>
+<body>
 <br>
 <br>
 <br>
@@ -265,17 +272,14 @@ Alternatively, email us at <strong> <font size="+2">  < a href="mailto:mobilitym
   </p>
   <p>
      
-     p>
 <section id="Feedback" class="main special">
-<header class="major">
+<header class="">
 <h2>Feedback</h2>
 <p>
- <br>
-  <p>
+ <p>
 We are always keen to receive feedback from our customers, to either let us know what we are doing well but also areas where we can improve the customer experience.  I review all feedback received personally.  To send your feedback, please use the button below.
   </p>
-  <p>
-
+  
 <body>
 <a href="mailto:mobilitymaintenancepeterborough@hotmail.com?subject=Feedback"> Send Feedback</a>
 <body>
