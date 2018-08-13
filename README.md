@@ -273,7 +273,7 @@ We are always keen to receive feedback from our customers, to either let us know
   </p>
   
 <body>
-<a <b> href="mailto:mobilitymaintenancepeterborough@hotmail.com?subject=Feedback"> Send Feedback <b> </a>
+<a <strong>  href="mailto:mobilitymaintenancepeterborough@hotmail.com?subject=Feedback"> Send Feedback </stromg> </a>
 <body>
   <br>
 <br>
