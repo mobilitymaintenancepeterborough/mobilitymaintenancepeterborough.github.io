@@ -264,8 +264,11 @@ Alternatively, email us at <strong> <font size="+2">  < a href="mailto:mobilitym
   </p>
   <p>
            <br>
-  
-<a href="mailto:mobilitymaintenancepeterborough.com">SEND</a> ?subject=Email%20Subject">Mobility Scooter Enquiry</a> ). 
+  <p>
+We are always keen to receive feedback from our customers, to either let us know what we are doing well but also areas where we can improve, so that we can improve the customer experience.  I review all feedback received personally.  To send your feedback, please use the button below.
+  </p>
+  <p>
+
 <body>
 <a href="mailto:mobilitymaintenancepeterborough.com"> Send Feedback</a>
 <body>
