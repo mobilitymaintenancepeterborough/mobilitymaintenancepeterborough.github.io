@@ -6,6 +6,24 @@
   <p>Do you have a mobility scooter that is broken, slow or just tired.  Mobility Maintenance Peterborough is here to help with all of your repair needs.  With over 15 years experience in maintaining and repairing a wide range of mobility scooters in Peterborough and the surrounding area, we are recognised for providing a fast, friendly, reliable and competetive service. We have a genuine interest in the needs of our customers and will go the extra mile to ensure customer satisfaction.</p>
 </div>
 
+<div id="header">
+  ... contents go here ...
+</div>
+
+<div id="content">
+  <div class="col">
+    <img src="https://user-images.githubusercontent.com/41233842/44137299-d38c2b14-a067-11e8-88ee-5c76e623e089.jpg" width="300" height "400" alt="" />
+  </div>
+  <div class="col">
+    <p>Do you have a mobility scooter that is broken, slow or just tired.  Mobility Maintenance Peterborough is here to help with all of your repair needs.  With over 15 years experience in maintaining and repairing a wide range of mobility scooters in Peterborough and the surrounding area, we are recognised for providing a fast, friendly, reliable and competetive service. We have a genuine interest in the needs of our customers and will go the extra mile to ensure customer satisfaction.</p>
+  </div>
+</div>
+
+<div id="footer">
+  ... contents go here ...
+</div>
+
+
 
 <IMG SRC=”https://user-images.githubusercontent.com/41233842/44137299-d38c2b14-a067-11e8-88ee-5c76e623e089.jpg” width="300" height "400" ALIGN=”right” /> Do you have a mobility scooter that is broken, slow or just tired.  Mobility Maintenance Peterborough is here to help with all of your repair needs.  With over 15 years experience in maintaining and repairing a wide range of mobility scooters in Peterborough and the surrounding area, we are recognised for providing a fast, friendly, reliable and competetive service. We have a genuine interest in the needs of our customers and will go the extra mile to ensure customer satisfaction.
    
