@@ -5,6 +5,10 @@
 This text appears in front of the background image.
 </div>
 
+<div style="background:url(//www.html.am/images/backgrounds/background-image-3.gif) center center no-repeat;width:300px;height:200px;color:black;font-size:18px;border:1px solid #ccc;padding:5px;">
+This text appears in front of a repeating background image.
+</div>
+
 
 
 <!DOCTYPE html>
