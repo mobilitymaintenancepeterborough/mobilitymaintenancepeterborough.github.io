@@ -171,9 +171,6 @@ We have many happy customers, many who use us on a regular basis to either servi
 <br>
 <br>
 <br>
-
-<br>
-
      <img 
     src="https://user-images.githubusercontent.com/41233842/44137296-cfb4d4c8-a067-11e8-81af-1232cb32e1c5.jpg"
      width="300" height "400"
