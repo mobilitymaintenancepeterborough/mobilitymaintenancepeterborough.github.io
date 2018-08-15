@@ -147,7 +147,7 @@ We have many happy customers, many who use us on a regular basis to either servi
  <br>
 <br>A recent scooter with significant body damage in for repair.
 
-
+<br>
      <img 
     src="https://user-images.githubusercontent.com/41233842/43689205-a4c03a44-98ee-11e8-8ffd-77ed49fdd804.jpg" 
         width="100" height="100"
@@ -175,20 +175,6 @@ We have many happy customers, many who use us on a regular basis to either servi
 
 <br>
 
-<div class="row">
-  <div class="column">
-    <img src="https://user-images.githubusercontent.com/41233842/44137299-d38c2b14-a067-11e8-88ee-5c76e623e089.jpg" width="300" height "400"> 
-  </div>
-   <div class="column">
-    <img src="https://user-images.githubusercontent.com/41233842/44137302-d73d3834-a067-11e8-9021-30a5c3760381.jpg"
-     width="300" height "400">
-  </div>
-  <br>
-     <img 
-    src="https://user-images.githubusercontent.com/41233842/44137299-d38c2b14-a067-11e8-88ee-5c76e623e089.jpg"
-     width="300" height "400">
-    <br> 
-    <br>
 <br>
      <img 
     src="https://user-images.githubusercontent.com/41233842/44137302-d73d3834-a067-11e8-9021-30a5c3760381.jpg"
