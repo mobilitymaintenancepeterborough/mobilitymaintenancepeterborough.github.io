@@ -1,5 +1,12 @@
 <h1>Mobility Maintenance Peterborough</h1>
 
+
+<div style="background-image:url(https://user-images.githubusercontent.com/41233842/44139949-8c577c54-a070-11e8-8e17-1f9228611e0b.jpg);width:220px;height:140px;color:black;font-size:18px;">
+This text appears in front of the background image.
+</div>
+
+
+
 <!DOCTYPE html>
 <html>
 <head>
