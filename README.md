@@ -171,21 +171,20 @@ We have many happy customers, many who use us on a regular basis to either servi
 <br>
 <br>
 <br>
-     <img 
-    src="https://user-images.githubusercontent.com/41233842/44137296-cfb4d4c8-a067-11e8-81af-1232cb32e1c5.jpg"
-     width="300" height "400"
+     <img src="https://user-images.githubusercontent.com/41233842/44137296-cfb4d4c8-a067-11e8-81af-1232cb32e1c5.jpg"
+     width="300" height "400">
     <br> 
     <br>
 <br>
      <img 
     src="https://user-images.githubusercontent.com/41233842/44137299-d38c2b14-a067-11e8-88ee-5c76e623e089.jpg"
-     width="300" height "400"
+     width="300" height "400">
     <br> 
     <br>
 <br>
      <img 
     src="https://user-images.githubusercontent.com/41233842/44137302-d73d3834-a067-11e8-9021-30a5c3760381.jpg"
-     width="300" height "400"
+     width="300" height "400">
     <br> 
     <br>
 <br>
