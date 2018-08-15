@@ -5,7 +5,13 @@
   <p>
 Sometimes the problem can be resolved over the phone, saving you time and money.  Feel free to contact us on 07947 436394 with detail or your scooter and the problem you are experiencing and we will aim to get you moving (also look at the Frequency Asked Questions section as this may also help you).
  <br>
- <br>
+ <html>
+<body background="https://user-images.githubusercontent.com/41233842/44139949-8c577c54-a070-11e8-8e17-1f9228611e0b.jpg">
+<h1>Hello world!</h1>
+<p><a href="https://www.w3schools.com">Visit W3Schools.com!</a></p>
+</body>
+</html>
+   
 <ul>
 <li><a href="#Who Are We?" class="active">Who Are We?</a></li>
 <li><a href="#Services">Services</a></li>
