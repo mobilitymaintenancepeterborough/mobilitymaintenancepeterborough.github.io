@@ -1,61 +1,37 @@
-<h1>Mobility Maintenance Peterborough</h1>
-
-<br>
-<img src="ttps://user-images.githubusercontent.com/41233842/44137299-d38c2b14-a067-11e8-88ee-5c76e623e089.jpg" width="300" height "400" alt="picture" style="float:left;margin:0 20px 20px 0;" />
->Do you have a mobility scooter that is broken, slow or just tired.  Mobility Maintenance Peterborough is here to help with all of your repair needs.  With over 15 years experience in maintaining and repairing a wide range of mobility scooters in Peterborough and the surrounding area, we are recognised for providing a fast, friendly, reliable and competetive service. We have a genuine interest in the needs of our customers and will go the extra mile to ensure customer satisfaction.
-<br>
-
-
-<div id="content">
-  <img src="https://user-images.githubusercontent.com/41233842/44137299-d38c2b14-a067-11e8-88ee-5c76e623e089.jpg" width="300" height "400" alt="" />
-  <p>Do you have a mobility scooter that is broken, slow or just tired.  Mobility Maintenance Peterborough is here to help with all of your repair needs.  With over 15 years experience in maintaining and repairing a wide range of mobility scooters in Peterborough and the surrounding area, we are recognised for providing a fast, friendly, reliable and competetive service. We have a genuine interest in the needs of our customers and will go the extra mile to ensure customer satisfaction.</p>
-</div>
-
-<div id="header">
-  ... contents go here ...
-</div>
-
-<div id="content">
-  <div class="col">
-    <img src="https://user-images.githubusercontent.com/41233842/44137299-d38c2b14-a067-11e8-88ee-5c76e623e089.jpg" width="300" height "400" alt="" />
-  </div>
-  <div class="col">
-    <p>Do you have a mobility scooter that is broken, slow or just tired.  Mobility Maintenance Peterborough is here to help with all of your repair needs.  With over 15 years experience in maintaining and repairing a wide range of mobility scooters in Peterborough and the surrounding area, we are recognised for providing a fast, friendly, reliable and competetive service. We have a genuine interest in the needs of our customers and will go the extra mile to ensure customer satisfaction.</p>
-  </div>
-</div>
-
-<div id="footer">
-  ... contents go here ...
-</div>
-
-
-
-<IMG SRC=”https://user-images.githubusercontent.com/41233842/44137299-d38c2b14-a067-11e8-88ee-5c76e623e089.jpg” width="300" height "400" ALIGN=”right” /> Do you have a mobility scooter that is broken, slow or just tired.  Mobility Maintenance Peterborough is here to help with all of your repair needs.  With over 15 years experience in maintaining and repairing a wide range of mobility scooters in Peterborough and the surrounding area, we are recognised for providing a fast, friendly, reliable and competetive service. We have a genuine interest in the needs of our customers and will go the extra mile to ensure customer satisfaction.
-   
-  <p>
-Sometimes the problem can be resolved over the phone, saving you time and money.  Feel free to contact us on 07947 436394 with detail or your scooter and the problem you are experiencing and we will aim to get you moving (also look at the Frequency Asked Questions section as this may also help you).
- <br>
+<body style="background-color: #f2f2f2;">
     
+                    <p>
+<h1> <strong> <font face="impact"> <h1 style="font-size:250%;">Mobility Maintenance Peterborough</h1> <color="black"> <u> &nbsp;&nbsp;&emsp; &emsp; &emsp; 07947 436394 <strong> </font> </h1>
+                    
+            <p style="font-size:50px;">I am big</p>
     <br>
-    <img src="smiley.gif" alt="Smiley face" align="middle"> 
-    <br>
- <p>
-<BR CLEAR=”left” /> 
- 
-Do you have a mobility scooter that is broken, slow or just tired.  Mobility Maintenance Peterborough is here to help with all of your repair needs.  With over 15 years experience in maintaining and repairing a wide range of mobility scooters in Peterborough and the surrounding area, we are recognised for providing a fast, friendly, reliable and competetive service. We have a genuine interest in the needs of our customers and will go the extra mile to ensure customer satisfaction.
-   
-  <p>
-Sometimes the problem can be resolved over the phone, saving you time and money.  Feel free to contact us on 07947 436394 with detail or your scooter and the problem you are experiencing and we will aim to get you moving (also look at the Frequency Asked Questions section as this may also help you).
+    
+<img src="https://user-images.githubusercontent.com/41233842/44423760-d4d52180-a57e-11e8-9a57-6e791186b3b9.jpg" width="350" height "450" alt="picture" style="float:right;margin:0 5px 5px 0;ALIGN=”right” /> " />
+            
+           
+         
+    <br>  <strong> <font size="5" color="black" > Do you have a mobility scooter that is broken, slow or just tired? <i> <font size="5"> Mobility Maintenance Peterborough </i> </font> is here to help with all of your repair needs. <strong> </font> 
+<br>
  <br>
- <br>
+ <strong> <font size="5" font-style: oblique > With over 15 years experience in maintaining and repairing a wide range of mobility scooters in Peterborough and the surrounding area, we are recognised for providing a fast, friendly, reliable and competetive service. We have a genuine interest in the needs of our customers and will go the extra mile to ensure customer satisfaction. <strong> </font>
 <ul>
-<li><a href="#Who Are We?" class="active">Who Are We?</a></li>
-<li><a href="#Services">Services</a></li>
-<li><a href="#Customer Testimonials">Customer Testimonials</a></li>
-<li><a href="#Previous Repairs">Previous Repairs</a></li>
- <li><a href="#Contact Us">Contact Us</a></li>
- <li><a href="#Feedback">Feedback</a></li>
- <li><a href="#Frequently Asked Questions">Frequently Asked Questions</a></li>
+    <br>
+<br>
+<br>
+
+ <font size="5" color="black"> <li>  <a href= "#Who Are We?"> <font size="5" color="black"> Who Are We? </font> </a></li> 
+     <br>
+ <font size="5" color="black"><li><a href="#Services"> <font size="5" color="black"> Services</a></li> 
+  <br line-height: -50%;>
+     <font size="5" color="black"><li><a href="#Customer Testimonials"> <font size="5" color="black">Customer Testimonials</a></li>
+         <br>
+ <font size="5" color="black"><li><a href="#Previous Repairs"> <font size="5" color="black">Previous Repairs</a></li>
+ <br>
+     <font size="5" color="black"> <li><a href="#Contact Us"> <font size="5" color="black">Contact Us</a></li>
+<br>
+         <font size="5" color="black">  <li><a href="#Feedback"> <font size="5" color="black">Feedback</a></li>
+<br>
+             <font size="5" color="black"> <li><a href="#Frequently Asked Questions"> <font size="5" color="black"> Frequently Asked Questions</a></li></font>
 </ul>
 
 <br>
@@ -63,9 +39,9 @@ Sometimes the problem can be resolved over the phone, saving you time and money.
 <br>
 <br>
 <br>
-<section id="Who Are We?" class="main special">
+<font size="4"> <section id="Who Are We?" class="main special">
 <header class="major">
-<h2>Who Are We?</h2>
+<h2>Who Are We?</h2></font>
  </header>
 <p>
 My name is David and I am the owner of Mobility Maintenance Peterborough and my company has over 15 years experience in maintaining and repairing a wide range of mobility scooters in Peterborough and the surrounding area.
@@ -135,7 +111,7 @@ Our aim is to provide a fast, friendly, reliable and competative service.  We ha
 <header class="major">
 <h2>Customer Testimonials</h2>
 </header>
- 
+
 <p>
 We have many happy customers, many who use us on a regular basis to either service or repair thier mobility scooters.  We have grown our business from recomendations from existing customers.  Some recent customer comments and testimonials are below;
 
@@ -153,11 +129,11 @@ We have many happy customers, many who use us on a regular basis to either servi
  
  <p> 
  
- Dai RO <strong>"First class service and prompt.  Will definitely use again if needed"</strong>
+ Dai RO <strong> font-style: oblique "First class service and prompt.  Will definitely use again if needed"</strong>
   <p> 
 
- Shiela A S <strong>"Previous feedback very true, quick efficient and reasonable prices"</strong>
- 
+ Shiela A S <strong>" <font-style: oblique> Previous feedback very true, quick efficient and reasonable prices"</strong>
+  <p> 
  Mo <strong> "Have had 2 trouble free years on the scooter he repaired for me after I was told it was unrepairable by another company. A very polite and helpful man and i can thoroughly recommend him."</strong>
 
 
@@ -207,29 +183,21 @@ We have many happy customers, many who use us on a regular basis to either servi
   <br> After the body and pain repairs had been completed
 <br>
   <br>examples of previous repairs undertaken
-
 <br>
 <br>
-
 <br>
 <br>
-
-<br>     A great, waterproof, easy to use mobility scooter shelter.  These bolt to the floor for security and stability.  I can supply and fit these from £155
-
-
+<br>     A great, weatherproof, easy to use mobility scooter shelter.  These bolt to the floor for security and stability.  I can supply and fit these from £155
 <br>
-<img src="https://user-images.githubusercontent.com/41233842/44137299-d38c2b14-a067-11e8-88ee-5c76e623e089.jpg" width="300" height "400"> <img/> <img src="https://user-images.githubusercontent.com/41233842/44137302-d73d3834-a067-11e8-9021-30a5c3760381.jpg" width="300" height "400">
-
+<img src="https://user-images.githubusercontent.com/41233842/44137299-d38c2b14-a067-11e8-88ee-5c76e623e089.jpg" width="500" height "400"> <img/> <img src="https://user-images.githubusercontent.com/41233842/44137302-d73d3834-a067-11e8-9021-30a5c3760381.jpg" width="300" height "400">
 <br>
-
 <br>
      <img 
     src="https://user-images.githubusercontent.com/41233842/44137302-d73d3834-a067-11e8-9021-30a5c3760381.jpg"
-     width="300" height "400">
+     width="500" height "400">
     <br> 
     <br>
-<br>
-           
+<br>        
 <br>
 <br>
 <br>
@@ -356,6 +324,7 @@ These are a few simply checks we recommend before calling for help with repaits,
 &copy; 2018 - MobilityMaintenancePeterborough.co.uk <br />
 
 </p>
-</footer>
+</footer> 
+         </body>
 
-   
+
