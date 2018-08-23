@@ -1,37 +1,24 @@
 <body style="background-color: #f2f2f2;">
-    
-                    <p>
-<h1> <strong> <font face="impact"> <h1 style="font-size:250%;">Mobility Maintenance Peterborough</h1> <color="black"> <u> &nbsp;&nbsp;&emsp; &emsp; &emsp; 07947 436394 <strong> </font> </h1>
-                    
-            <p style="font-size:50px;">I am big</p>
-    <br>
-    
-<img src="https://user-images.githubusercontent.com/41233842/44423760-d4d52180-a57e-11e8-9a57-6e791186b3b9.jpg" width="350" height "450" alt="picture" style="float:right;margin:0 5px 5px 0;ALIGN=”right” /> " />
-            
-           
-         
-    <br>  <strong> <font size="5" color="black" > Do you have a mobility scooter that is broken, slow or just tired? <i> <font size="5"> Mobility Maintenance Peterborough </i> </font> is here to help with all of your repair needs. <strong> </font> 
+<marquee behavior="alternate" bgcolor="#bb3434" direction="right" height:="" 
+loop="7" scrollamount="1" scrolldelay="2" width="100%">
+<span style="font-size: 20px;color:#FFFFFF">
+New services available check the "services" link below!</span></marquee>
+<h1> <margin-top: 0;> <strong> <font face="impact"> <h1 style="font-size:200%;">Mobility Maintenance </font> <font face="modern" style="font-size:120%; color="red""> &emsp;&emsp;&nbsp; 07947 436394 </font> <br>
+<font face="impact" color="black" style="font-size:-140%;"> Peterborough</font>
+ <font face="modern" color="black" style="font-size:35%;"> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; &emsp; &emsp; &emsp;&emsp;&nbsp; MOBILITYMAINTENANCEPETERBOROUGH@HOTMAIL.COM </strong> </font> </h1>
+<img src="https://user-images.githubusercontent.com/41233842/44423760-d4d52180-a57e-11e8-9a57-6e791186b3b9.jpg" width="300" height "300" alt="picture" style="float:right;margin:0 5px 5px 0;ALIGN=”right” /> " />
+<font size="5" color="black" font face="ariel"> Do you have a mobility scooter that is broken, slow or just tired? <i> <font size="5"> <strong> Mobility Maintenance Peterborough </i> </strong> </font> is here to help with all of your repair needs.</font> 
 <br>
- <br>
- <strong> <font size="5" font-style: oblique > With over 15 years experience in maintaining and repairing a wide range of mobility scooters in Peterborough and the surrounding area, we are recognised for providing a fast, friendly, reliable and competetive service. We have a genuine interest in the needs of our customers and will go the extra mile to ensure customer satisfaction. <strong> </font>
+<br>
+<font size="5" font face="ariel" > With over 15 years experience in maintaining and repairing a wide range of mobility scooters in Peterborough and the surrounding area, we are recognised for providing a fast, friendly, reliable and competetive service. We have a genuine interest in the needs of our customers and will go the extra mile to ensure customer satisfaction. </font>
 <ul>
-    <br>
-<br>
-<br>
-
- <font size="5" color="black"> <li>  <a href= "#Who Are We?"> <font size="5" color="black"> Who Are We? </font> </a></li> 
-     <br>
- <font size="5" color="black"><li><a href="#Services"> <font size="5" color="black"> Services</a></li> 
-  <br line-height: -50%;>
-     <font size="5" color="black"><li><a href="#Customer Testimonials"> <font size="5" color="black">Customer Testimonials</a></li>
-         <br>
- <font size="5" color="black"><li><a href="#Previous Repairs"> <font size="5" color="black">Previous Repairs</a></li>
- <br>
-     <font size="5" color="black"> <li><a href="#Contact Us"> <font size="5" color="black">Contact Us</a></li>
-<br>
-         <font size="5" color="black">  <li><a href="#Feedback"> <font size="5" color="black">Feedback</a></li>
-<br>
-             <font size="5" color="black"> <li><a href="#Frequently Asked Questions"> <font size="5" color="black"> Frequently Asked Questions</a></li></font>
+<font size="5" color="black" font face="ariel"> <li>  <a href= "#Who Are We?"> <font size="5" color="black" font face="ariel"> Who Are We? </a></li> 
+<font size="5" color="black"><li><a href="#Services"> <font size="5" color="black"> Services</a></li> 
+<font size="5" color="black"><li><a href="#Customer Testimonials"> <font size="5" color="black">Customer Testimonials</a></li>
+<font size="5" color="black"><li><a href="#Previous Repairs"> <font size="5" color="black">Previous Repairs</a></li>
+<font size="5" color="black"> <li><a href="#Contact Us"> <font size="5" color="black">Contact Us</a></li>
+<font size="5" color="black">  <li><a href="#Feedback"> <font size="5" color="black">Feedback</a></li>
+<font size="5" color="black"> <li><a href="#Frequently Asked Questions"> <font size="5" color="black"> Frequently Asked Questions</a></li></font>
 </ul>
 
 <br>
@@ -41,7 +28,7 @@
 <br>
 <font size="4"> <section id="Who Are We?" class="main special">
 <header class="major">
-<h2>Who Are We?</h2></font>
+<h2> <U> Who Are We?</U> </h2></font>
  </header>
 <p>
 My name is David and I am the owner of Mobility Maintenance Peterborough and my company has over 15 years experience in maintaining and repairing a wide range of mobility scooters in Peterborough and the surrounding area.
@@ -72,7 +59,7 @@ Our aim is to provide a fast, friendly, reliable and competative service.  We ha
 
 <section id="Services" class="main special">
 <header class="major">
-<h2>Services</h2>
+<h2><U>Services</U></h2>
     To ensure you get the most from your mobility scooter, we offer a comprehansive service which includes
  <ul style="list-style-type:disc">
 <li>Annual Servicing.</li> 
@@ -326,5 +313,6 @@ These are a few simply checks we recommend before calling for help with repaits,
 </p>
 </footer> 
          </body>
+
 
 
