@@ -5,10 +5,22 @@ loop="7" scrollamount="1" scrolldelay="2" width="100%">
 
 <h1> <margin-top: 0;> <strong> <font face="sans-serif"> <h1 style="font-size:180%;">Mobility Maintenance Peterborough </font> <font face="sans-serif" style="font-size:80%;"> <P align=right>07947436394</P> </font> <br>
 <header style="position: relative; top: -10px;">
-<div id="textbox">
-  <p class="alignleft">Text on the left.</p>
-  <p class="alignright">Text on the right.</p>
-</div>
+
+  p {
+  position: relative;
+  overflow: hidden;
+  width: 100%;
+}
+p:after,
+p::after {
+  content: "----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------";
+  display: inline-block;
+  width: 100%;
+  height: auto;
+  z-index: -1;
+  position: absolute;
+}
+  
 <font face="sans-serif" color="black" style="font-size:35%;"> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; &emsp; &emsp; &emsp;&emsp;&nbsp; MOBILITYMAINTENANCEPETERBOROUGH@HOTMAIL.COM </strong> </font> </h1>
     div {
   text-align: justify;
