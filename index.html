@@ -185,19 +185,48 @@ Sarah G &nbsp&nbsp&nbsp&nbsp&nbsp <i> <strong> "Very polite and quick response t
 
 <br> An example of a complete repaint due to the level of paint damage
 <br>
+ <!DOCTYPE html>
+<html>  <head>
+<style>
+* {    box-sizing: border-box;}
+.column {float: left;    width: 33.33%;    padding: 5px;}
+/* Clearfix (clear floats) */ .row::after {    content: "";     clear: both;    display: table;}
+</style>
+</head>
+<body>
+<h2>Images Side by Side</h2>
+<p>How to create side-by-side images with the CSS float property:</p>
+
+<div class="row">
+  <div class="column">
+    <img src="img_snow.jpg" alt="Snow" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="img_forest.jpg" alt="Forest" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="img_mountains.jpg" alt="Mountains" style="width:100%">
+  </div>
+</div>
+
+</body>
+</html>
+
+ 
+ 
  
  <div class="row">
   <div class="column">
-  <img src="https://user-images.githubusercontent.com/41233842/44973380-44221c80-af54-11e8-9d8f-256300be8c21.jpg" "width:100%" 
+  <img src="https://user-images.githubusercontent.com/41233842/44973380-44221c80-af54-11e8-9d8f-256300be8c21.jpg" "width:100%" >
    </div>
   <div class="column">
-    <img src="https://user-images.githubusercontent.com/41233842/44973376-3c627800-af54-11e8-8b8c-6ef196442e63.jpg" "width:100%"
+    <img src="https://user-images.githubusercontent.com/41233842/44973376-3c627800-af54-11e8-8b8c-6ef196442e63.jpg" "width:100%">
    </div>
   <div class="column">
-    <img src="https://user-images.githubusercontent.com/41233842/44973391-500dde80-af54-11e8-8ffd-509af313ee3f.jpg" "width:100%"
+    <img src="https://user-images.githubusercontent.com/41233842/44973391-500dde80-af54-11e8-8ffd-509af313ee3f.jpg" "width:100%">
   </div>
     <div class="column">
-  <img src="https://user-images.githubusercontent.com/41233842/44973380-44221c80-af54-11e8-9d8f-256300be8c21.jpg" "width:100%"
+  <img src="https://user-images.githubusercontent.com/41233842/44973380-44221c80-af54-11e8-9d8f-256300be8c21.jpg" "width:100%">
    </div>
 </div>
  
