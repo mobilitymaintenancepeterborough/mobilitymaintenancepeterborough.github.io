@@ -1,51 +1,61 @@
 <body style="background-color: #f2f2f2;">
-<marquee behavior="alternate" bgcolor="#bb3434" direction="right" height:="" 
+<marquee behavior="alternate" bgcolor="#bb3434" direction="left" height:="" 
 loop="7" scrollamount="1" scrolldelay="2" width="100%">
-<span style="font-size: 20px;color:#FFFFFF">
-New services available check the "services" link below!</span></marquee>
-<h1> <margin-top: 0;> <strong> <font face="impact"> <h1 style="font-size:200%;">Mobility Maintenance </font> <font face="modern" style="font-size:120%; color="red""> &emsp;&emsp;&nbsp; 07947 436394 </font> <br>
-<font face="impact" color="black" style="font-size:-140%;"> Peterborough</font>
- <font face="modern" color="black" style="font-size:35%;"> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; &emsp; &emsp; &emsp;&emsp;&nbsp; MOBILITYMAINTENANCEPETERBOROUGH@HOTMAIL.COM </strong> </font> </h1>
-<img src="https://user-images.githubusercontent.com/41233842/44423760-d4d52180-a57e-11e8-9a57-6e791186b3b9.jpg" width="300" height "300" alt="picture" style="float:right;margin:0 5px 5px 0;ALIGN=”right” /> " />
-<font size="5" color="black" font face="ariel"> Do you have a mobility scooter that is broken, slow or just tired? <i> <font size="5"> <strong> Mobility Maintenance Peterborough </i> </strong> </font> is here to help with all of your repair needs.</font> 
+<span style="font-size: 18px;color:#FFFFFF">Now offering a new tyre puncture proofing service and the installation of scooter shelters. Check the "services" link below for more information.</span></marquee>
+<header style="position: relative; top: -40px;">
+<h1> <margin-top: 0;> <strong> <font face="sans-serif"> <h1 style="font-size:200%;"> <DIV ALIGN=CENTER>Mobility Maintenance Peterborough</DIV>
+<header style="position: relative; top: -23px;">
+ <font face="sans-serif" color="navy" style="font-size:50%;"> <P align=right>07947436394</P> </font> <br>
+ <header style="position: relative; top: -120px;">
+ <font face="sans-serif" color="navy" style="font-size:35%;"> <P align=right>MOBILITYMAINTENANCEPETERBOROUGH@HOTMAIL.COM</P> </font> <br>
+<header style="position: relative; top: -50px;">
+<img src="https://user-images.githubusercontent.com/41233842/44423760-d4d52180-a57e-11e8-9a57-6e791186b3b9.jpg" width="250" height "250" alt="picture" style="float:right;margin:0 5px 5px 0;ALIGN=”right” /> " />
+<header style="position: relative; top: -10px;"> <font size="4" color="black" font face="sans-serif"> Do you have a mobility scooter that is broken, slow or just tired?  <strong> Mobility Maintenance Peterborough </strong> is here to help with all of your repair needs.
+<b>With over 15 years' experience in maintaining and repairing a wide range of mobility scooters in Peterborough and the surrounding area, we are recognised for providing a fast, friendly, reliable and competitive service. We have a genuine interest in the needs of our customers and will go the extra mile to ensure customer satisfaction. </font>
 <br>
-<br>
-<font size="5" font face="ariel" > With over 15 years experience in maintaining and repairing a wide range of mobility scooters in Peterborough and the surrounding area, we are recognised for providing a fast, friendly, reliable and competetive service. We have a genuine interest in the needs of our customers and will go the extra mile to ensure customer satisfaction. </font>
-<ul>
-<font size="5" color="black" font face="ariel"> <li>  <a href= "#Who Are We?"> <font size="5" color="black" font face="ariel"> Who Are We? </a></li> 
-<font size="5" color="black"><li><a href="#Services"> <font size="5" color="black"> Services</a></li> 
-<font size="5" color="black"><li><a href="#Customer Testimonials"> <font size="5" color="black">Customer Testimonials</a></li>
-<font size="5" color="black"><li><a href="#Previous Repairs"> <font size="5" color="black">Previous Repairs</a></li>
-<font size="5" color="black"> <li><a href="#Contact Us"> <font size="5" color="black">Contact Us</a></li>
-<font size="5" color="black">  <li><a href="#Feedback"> <font size="5" color="black">Feedback</a></li>
-<font size="5" color="black"> <li><a href="#Frequently Asked Questions"> <font size="5" color="black"> Frequently Asked Questions</a></li></font>
+ <ul>
+<font size="5" color="navy" font face="sans-serif"> <li>  <a href= "#Who Are We?"> <font size="5" color="navy" font face="sans-serif"> Who Are We? </a></li> 
+ <font size="5" ><li><a href="#Services"> <font size="5" color="navy"> Services</a> </li>
+<font size="5" ><li><a href="#Customer Testimonials"> <font size="5" color="navy">Customer Testimonials</a></li>
+<font size="5" ><li><a href="#Previous Repairs"> <font size="5" color="navy">Previous Repairs</a></li>
+<font size="5" > <li><a href="#Contact Us"> <font size="5" color="navy">Contact Us</a></li>
+<font size="5" > <li><a href="#Feedback">   <font size="5" color="navy">Feedback</a></li>
+<font size="5" > <li><a href="#Frequently Asked Questions"> <font size="5" color="navy"> Frequently Asked Questions</a></li></font>
 </ul>
-
 <br>
 <br>
+<br><br><br><br><br><br><br><br>
 <br>
-<br>
-<br>
-<font size="4"> <section id="Who Are We?" class="main special">
+ <br>
+ <br>
+<section id="Who Are We?" class="main special">
 <header class="major">
-<h2> <U> Who Are We?</U> </h2></font>
+ <font size="4" color="navy" font face="sans-serif">  
+<h2> <U> Who Are We?</U> </h2>
  </header>
+ <p>
+<font size="4" color="navy" font face="sans-serif"> </p> 
+<img src="https://user-images.githubusercontent.com/41233842/45094031-1256b480-b112-11e8-983d-d1579c0aab5e.jpg" width="250" height "250" alt="picture" style="float:right;margin:0 5px 5px 0;ALIGN=”right” />  
+<font size="4" color="navy" font face="sans-serif"> My name is David and I am the owner of Mobility Maintenance Peterborough and my company has over 15 years’ experience in maintaining and repairing a wide range of mobility scooters in Peterborough and the surrounding area.</>
 <p>
-My name is David and I am the owner of Mobility Maintenance Peterborough and my company has over 15 years experience in maintaining and repairing a wide range of mobility scooters in Peterborough and the surrounding area.
-</p>
-<p>
-I'm often asked "why mobility scooter repairs" and "How can we be so competitive?" 
-</p>
+I'm often asked <strong> "Why mobility scooter repairs?" </strong> and "How can we be so competitive?" </p>
 <p>
 We understand how important it is to be able to rely on your mobility scooter and the independence they can provide.   We will always do our best to <strong>"Keep You Moving"</strong> and we take pride in our work and take the time to understand the needs of every customer.
 </p>
 <p> 
-Our prices are competative as we are a small team, which means we can offer a consitent, reliable service and treat each customer as an individual.  We don't have the overheads of running a shop, we undertake repairs at our workshop and prefer to make a small profit and have satisfied customers, many of which use our services time after time. It really is as simple as that.  
+Our prices are competitive as we are a small team, which means we can offer a consistent, reliable service and treat each customer as an individual.  We don't have the overheads of running a shop, instead where we need to take your scooter away for service/repair, we have a secure workshop.  We prefer to make a small profit and have satisfied customers, many of which use our services time after time. It really is as simple as that.  
 </p>
 <p>
-Our aim is to provide a fast, friendly, reliable and competative service.  We have a genuine interest in the needs of our customers and will go the extra mile to ensure customer satisfaction.  For your convenience, where possible, we will come to your premises to undertake the service / repair.  On occasions this will not be possible, in which case we will take your mobility scooter away to our workshop and return it to you once fixed/serviced and an agreed date and time.
 </p>
-   <p>
+<p>
+    <br>
+    <br>
+    <br>
+    <br>
+<br>
+    <br>
+    <br>
+ <br><br><br>   <br>
     <br>
     <br>
     <br>
@@ -55,29 +65,49 @@ Our aim is to provide a fast, friendly, reliable and competative service.  We ha
     <br>
     <br>
     <br>
-    <p>
-
+    <br>
+    <br>
+</p>
 <section id="Services" class="main special">
 <header class="major">
 <h2><U>Services</U></h2>
-    To ensure you get the most from your mobility scooter, we offer a comprehansive service which includes
- <ul style="list-style-type:disc">
-<li>Annual Servicing.</li> 
-    <li>A fully documented inspection of all aspects of your scooter (to include brakes, wheels/tyres, all electrics, fixings, chassis, bodywork, seats and belts).
-     <li>a full battery test.</li>
-     <li>a thorough road test.</li>
-  <li>a report of our findings and any recommendations, which we will talk through with you.</li>
-  <li>Puncture repairs and tyre replacement.</li>
-  <li>Brake servicing.</li>
-  <li>Fault fixing and electrical investigations and repairs.</li>
-  Including supplying and fitting replacement batteries and charger.  High quality parts are used.</li>
-  <li>Bodywork repairs.  The repair of damages panels, through to a full repaint.</li>
- <li>Battery replacement.  The batteries we use have been sourced for many years and have been found to be trouble free and reliable, despite being one of the cheapest on the market.</li>
- <li>Supply and fit mobility scooter shelters 
-  <br>A great, waterproof, easy to use mobility scooter shelter.  These bolt to the floor for security and stability.  I can supply and fit these from £155
+<font size="4" color="navy" font face="sans-serif"> </p>
+To ensure you get the most from your mobility scooter, we offer the following range of services;                     
+<li>Annual Servicing, which includes;</li>
+                                                  <ul>
+                                               <header style="position: relative; top: -20px;">   
+<li>A fully documented inspection of all aspects of your scooter (to include brakes, wheels/tyres, all electrics, fixings, chassis, bodywork, seats and belts).</li>
+<li>A full battery test.</li>
+<li>A thorough road test.</li>
+<li>A report of our findings and any faults or recommendations, which we will talk through with you.</li>
+</ul>
+<header style="position: relative; top: -40px;">   
+</li> 
+<li>Puncture repairs and tyre replacement.
+<li>Brake servicing.
+<li>Fault fixing and electrical investigations and repairs.  Including supplying and fitting replacement batteries and 
+<header style="position: relative; top: -20px;">
+<p style="margin-left: 0px"> charger.  High quality parts are used.
+<header style="position: relative; top: -21px;">
+<li>Bodywork repairs.  The repair of damages panels, through to a full repaint.
+<li>Battery replacement.  The batteries we use have been sourced for many years and have been found to be trouble 
+<header style="position: relative; top: -20px;">
+<p style="margin-left: 0px"> free and reliable, despite being one of the cheapest on the market. 
+                            
+<header style="position: relative; top: -20px;">
+                                               
+<li>Supply and fit mobility scooter shelters from £155.
+<header style="position: relative; top: -20px;">                                             
+<p style="margin-left: 0px"> 
+<font size="4" color="navy" font face="sans-serif"> A great, waterproof, easy to use mobility scooter shelter.  These bolt to the floor for security and stability.    <p>
+<img src="https://user-images.githubusercontent.com/41233842/44137299-d38c2b14-a067-11e8-88ee-5c76e623e089.jpg" width="170" height "170" /> <img src="https://user-images.githubusercontent.com/41233842/44865009-08980180-ac79-11e8-89c4-4c3e4d86fa0b.jpg" width="170" height "170"  />
+</li>
+</ul>
+</header>
+<font size="4" color="navy" font face="sans-serif"> </p>
+<p>
+</p>
   <br>
-<img src="https://user-images.githubusercontent.com/41233842/44137299-d38c2b14-a067-11e8-88ee-5c76e623e089.jpg" width="300" height "400"> <img/> <img src="https://user-images.githubusercontent.com/41233842/44137302-d73d3834-a067-11e8-9021-30a5c3760381.jpg" width="300" height "400">
-
 <br>
 </p>
    <p>
@@ -96,93 +126,86 @@ Our aim is to provide a fast, friendly, reliable and competative service.  We ha
 
 <section id="Customer Testimonials" class="main special">
 <header class="major">
-<h2>Customer Testimonials</h2>
+                     <h2><u>Customer Testimonials</u></h2>
 </header>
 
 <p>
-We have many happy customers, many who use us on a regular basis to either service or repair thier mobility scooters.  We have grown our business from recomendations from existing customers.  Some recent customer comments and testimonials are below;
+We have many happy customers, many who use us on a regular basis to either service or repair their mobility scooters.  We have grown our business from recommendations from existing customers.  Some recent customer comments and testimonials are below;
 
 <br>
 <p>
  
- Gerald R <strong>"Excellent service given I have experienced it very reliable and nice man if he can help you he will"</strong>
+ Gerald R &nbsp&nbsp&nbsp&nbsp&nbsp <strong><i>"Excellent service given I have experienced it very reliable and nice man if he can help you he will"</i></strong>
 
  <p> 
- Annie W <strong>"Cannot recommend the lovely man enough.  Top service. Honest. Reliable and so lovely.</strong>
+ Annie W &nbsp&nbsp&nbsp&nbsp&nbsp<strong> <em> "Cannot recommend the lovely man enough.  Top service. Honest. Reliable and so lovely.</em></strong>
  
  <p> 
  
- Lyn P B <strong>"David came to my house and sorted out my mobility scooter quickly and efficiently and the price was great !  The scooter is working like new"</strong>
+ Lyn P B &nbsp&nbsp&nbsp&nbsp&nbsp<strong><i>"David came to my house and sorted out my mobility scooter quickly and efficiently and the price was great !  The scooter is working like new"</i></strong>
  
  <p> 
  
- Dai RO <strong> font-style: oblique "First class service and prompt.  Will definitely use again if needed"</strong>
+ Dai RO &nbsp&nbsp&nbsp&nbsp&nbsp <strong> <i> "First class service and prompt.  Will definitely use again if needed"</i></strong>
   <p> 
 
- Shiela A S <strong>" <font-style: oblique> Previous feedback very true, quick efficient and reasonable prices"</strong>
+ Sheila A S &nbsp&nbsp<i><strong>" <font-style: oblique> Previous feedback very true, quick efficient and reasonable prices"</i></strong>
   <p> 
- Mo <strong> "Have had 2 trouble free years on the scooter he repaired for me after I was told it was unrepairable by another company. A very polite and helpful man and i can thoroughly recommend him."</strong>
+Mo &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp <i> <strong> "Have had 2 trouble free years on the scooter he repaired for me after I was told it was unrepairable by another company. A very polite and 
+    &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp helpful man and i can thoroughly recommend him.</i>"</strong>
+<p>
+Sarah G &nbsp&nbsp&nbsp&nbsp&nbsp <i> <strong> "Very polite and quick response to fix my scooter and get me moving again." </i> </strong>
+<br>
 
-
+ 
+ <br>
 <br>
 <br>
+<br><br><br><br><br>
 <br>
 <br>
+<br><br>
 <br>
 <br>
+ <br>
 <br>
+ <br>
+ <br>
+ <br>
+ <br>
 <br>
+<br> <br>
+ <br>
+ <br>
+ <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<p>
-<p>
-<p>
-<p>
-<p>
-<p>
-<p>
-<p>
-<p>
-<p>
 <p>
 <section id="Previous Repairs" class="main special">
 <header class="major">
-<h2>Previous Repairs</h2>
+ <h2><u>Previous Repairs</u></h2>
+ </header>
+<header style="position: relative; top: -20px;">
+<br>A recent scooter that ive taken in.  Only a year old and a lovely driver, but with significant body damage which the customer wants repaired. 
+<br>
+<br>
+ <img src="https://user-images.githubusercontent.com/41233842/45095178-526b6680-b115-11e8-87a3-18dbf080b01e.jpg" width="250" height="250">
+   </div>
+<br>
+<br> An example of a complete repaint due to the level of paint damage
+<br>
+<section id="photos">
+<img src="https://user-images.githubusercontent.com/41233842/44973376-3c627800-af54-11e8-8b8c-6ef196442e63.jpg" width="250" height="250">
+<img src="https://user-images.githubusercontent.com/41233842/44973391-500dde80-af54-11e8-8ffd-509af313ee3f.jpg" width="250" height="250">
+<img  src="https://user-images.githubusercontent.com/41233842/44973401-5bf9a080-af54-11e8-96cc-fc50f0898a20.jpg" width="250" height="250">
+<img src="https://user-images.githubusercontent.com/41233842/44973408-61ef8180-af54-11e8-9453-c2b8f56a4c71.jpg" width="250" height="250">
+<img  src="https://user-images.githubusercontent.com/41233842/45094568-9cebe380-b113-11e8-8ea4-25686ecd2502.jpg" width="250" height="250">
+ </section>
  <br>
-<br>A recent scooter with significant body damage in for repair.
-
-<br>
-     <img 
-    src="https://user-images.githubusercontent.com/41233842/43689205-a4c03a44-98ee-11e8-8ffd-77ed49fdd804.jpg" 
-        width="100" height="100"
-     alt="This is some text">
-    <div id="bottom">
-<br>
-
-
-
-  <br> After the body and pain repairs had been completed
-<br>
-  <br>examples of previous repairs undertaken
+  <br>
 <br>
 <br>
 <br>
-<br>
-<br>     A great, weatherproof, easy to use mobility scooter shelter.  These bolt to the floor for security and stability.  I can supply and fit these from £155
-<br>
-<img src="https://user-images.githubusercontent.com/41233842/44137299-d38c2b14-a067-11e8-88ee-5c76e623e089.jpg" width="500" height "400"> <img/> <img src="https://user-images.githubusercontent.com/41233842/44137302-d73d3834-a067-11e8-9021-30a5c3760381.jpg" width="300" height "400">
-<br>
-<br>
-     <img 
-    src="https://user-images.githubusercontent.com/41233842/44137302-d73d3834-a067-11e8-9021-30a5c3760381.jpg"
-     width="500" height "400">
-    <br> 
+<br> 
     <br>
 <br>        
 <br>
@@ -211,67 +234,122 @@ We have many happy customers, many who use us on a regular basis to either servi
 <p>
 <section id="Contact Us" class="main special">
 <header class="major">
-<h2>Contact Us</h2>
+ <h2><u>Contact Us</u></h2>
 <p>
   <p>
     <p>
-     Please call us on  <strong> <font size="3"> 07947 436294 </font> </STRONG> to discuss your needs. Please leave a message if we don't answer, with details of the model of your mobility scooter and the problem and we will aim to get back to you within 24 hours.
+     Please call us on  <strong> <font size="5" color="navy" > 07947 436294 </font> </STRONG> to discuss your needs. Please leave a message if we don't answer, with details of the model of your mobility scooter and the problem and we will aim to get back to you within 24 hours.
   </p>
   <p>
   <p>
  <p>
-Alternatively, email us at mobilitymaintenancepeterborough@hotmail.com by using the <strong> <font size="3"> SEND EMAIL </font> </STRONG> button below, together with details of the make and model of your mobiity scooter and the problem and we will aim to get back to you within 24 hours.
+Alternatively, email us at  <strong> <font size="5" color="navy"> mobilitymaintenancepeterborough@hotmail.com </font> </strong> by using the <strong> <font size="6"> SEND EMAIL </font> </STRONG> button below, together with details of the make and model of your mobility scooter and the problem and we will aim to get back to you within 24 hours.
   </p>
  
  <body>
-<strong> <a href="mailto:mobilitymaintenancepeterborough@hotmail.com?subject=MOBILITY SCOOTER ENQUIRY"> SEND EMAIL  </a> </strong>
-<body>
+<strong> <font size="6" color="navy"> <a href="mailto:mobilitymaintenancepeterborough@hotmail.com?subject=MOBILITY SCOOTER ENQUIRY"> SEND EMAIL  </a> </strong>
+ <a href="mailto:mobilitymaintenancepeterborough@hotmail.com"> </font>
+  </section>
+  </body>
   <br> 
-  <p>
-    <p>
-      <p>
-        <p>
-          <p>
-            <p>
-              <p>
-                <p>
-                  <p>
-     
+<br>
+<br>
+<br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+<br>
+ <br>
+<br>
+<br>
+<br><br>
+<br>
+<br>
+<br>
+<p> 
+ <font color="navy">
 <section id="Feedback" class="main special">
-<header class="">
-<h2>Feedback</h2>
-<p>
+<font color="navy">
+ <header class="major">
+ <font color="navy">
+ <h2><u>Feedback</u></h2>
+</div>
+    </a>
+  </div>
+</div>
  <p>
-We are always keen to receive feedback from our customers, to either let us know what we are doing well but also areas where we can improve the customer experience.  I review all feedback received personally.  To send your feedback, please use the button below.
-  </p>
-  
+  <p>
+<color="navy"> We are always keen to receive feedback from our customers, to either let us know what we are doing well but also areas where we can improve the customer experience.  
+   </font>
+ </p>
+ <p>
+ I review all feedback received personally.  To send your feedback to us, please use the button below.
+ </p> 
 <body>
-<strong> <a  href="mailto:mobilitymaintenancepeterborough@hotmail.com?subject=Feedback"> SEND FEEDBACK  </a> </strong>
-<body>
+<strong> <font size="6" color="navy"> <a href="mailto:mobilitymaintenancepeterborough@hotmail.com?subject=FEEDBACK"> SEND FEEDBACK  </a> </strong>
+<a href="mailto:mobilitymaintenancepeterborough@hotmail.com"> </font>
+  </section>
+  </body>
+  <br> 
+<br>
+<br>
+   
+<br>
+ <br>
+ <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
   <br>
+  <br>
+  <br>
+  <br>
+  <br>
+ <br>
 <br>
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+<font color="navy">
 <section id="Frequently Asked Questions" class="main special">
-<header class="major">
-<h2>Frequently Asked Questions</h2>
-
-<p>
- 
- <ul style="list-style-type:disc">
-  <li><strong>How can I get the best from my battery?</strong>
- <br>  There are different views about how and when you should charge your scooter.  Some manafactures believe that you should charge your scooter straight after use whereas others believe that you should charge your scooter when the battery is getting towards empty.  We recommend you check your scooter manual for advice about how to make the most of your scooter battery.
+<font color="navy">
+ <header class="major">
+ <h2><u>Frequently Asked Questions</u></h2>
+<font color="navy">
+ </div>
+    </a>
+  </div>
+</div>
+ <p>
+  <p>
+ <p>
+<ul style="list-style-type:disc">
+ <li><strong> <u>How can I get the best from my battery?</u></strong>
+<br>  There are different views about how and when you should charge your scooter.  Some manafacturers believe that you should charge your scooter straight after use whereas others believe that you should charge your scooter when the battery is getting towards empty.  We recommend you check your scooter manual for advice about how to make the most of your scooter battery.
 <p>   
-<li><strong>How can I maintain the life of my battery if I plan not to use my mobility scooter for a while?</strong>
+<li><strong><u>How can I maintain the life of my battery if I plan not to use my mobility scooter for a while?</u></strong>
  <br>  When storing your scooter for long periods, to keep your battery in good condition you should always fully charge the batteries before disconnecting them from the scooter and allowing them to drain naturally.
    <p>
    <li><strong>I haven't used my scooter for a while and now when I go to turn it on it doesn't start, what should I do?</strong>
@@ -283,13 +361,13 @@ We are always keen to receive feedback from our customers, to either let us know
    <li><strong>My mobility scooter lights aren't working</strong>
  <br>  A bulb may have come loose during use and simply needs securing, or it may require replacing if old or broken.  If the bulb is new and securely in place then it may be a loose connection that needs fixing.  
     <p>
-These are a few simply checks we recommend before calling for help with repaits, but if you require our help, please phone us on 07947 436394 so we can advise you further.
+These are a few simply checks we recommend before calling for help with repairs, but if you require our help, please phone us on 07947 436394 so we can advise you further.
     <p>
    <li><strong>Is it normal for my mobility scooter to have a slight delay when switching it on?</strong>
- <br> As a safety feature, most mobility scooters have a slight delay between turning it on and being able to pull away when you activate the lever.  This feature ensures your safety if, for example, you accidentlally nudge the lever when getting on or off the scooter.
+ <br> As a safety feature, most mobility scooters have a slight delay between turning it on and being able to pull away when you activate the lever.  This feature ensures your safety if, for example, you accidentally nudge the lever when getting on or off the scooter.
 <br>If your scooter fails to move after more than just a short delay then it may be that the battery requires changing or there is a more complex fault.  If, once charged, your scooter is still not working then it may be that is needs further investigation to find the cause of the problem.  If you require our help, please phone us on 07947 436394 so we can advise you further.
 <p>
-   <li><strong>The seat on my mobility scooter wont come off/fit properly.  How can I fix this?</strong>
+   <li><strong>The seat on my mobility scooter won't come off/fit properly.  How can I fix this?</strong>
  <br>  Some mobility scooters require that the seat be facing to the side or backwards before you can remove or install it.  Check your manual for more information.
     <p>
 <li><strong>What procedures should I follow to ensure my scooter is in proper running order?</strong>
@@ -300,10 +378,13 @@ These are a few simply checks we recommend before calling for help with repaits,
  <br>  Each mobility scooter is different, but you will usually find the tiller release level on the bottom of the tiller.  For more information check your manual which should advise how to tighten your tiller.
     <p>
      <li><strong>I have checked everything and it has good batteries but my scooter won't move.</strong>
- <br>  Each mobility scooter will have a lever or knob that allows the scooter to be pushed when required.  If it isnt in the drive positio your scooter will not work.  Put your scooter into the drive position, turn the ignition off then on again and you should find it will work. 
+ <br>  Each mobility scooter will have a lever or knob that allows the scooter to be pushed when required.  If it isn't in the drive position your scooter will not work.  Put your scooter into the drive position, turn the ignition off then on again and you should find it will work. 
       <p>
      <li><strong>Can I get another key for my mobility scooter?</strong>
- <br>  Yes, you can buy a new key for only a few pounds.  Please contact me for more infomation. 
+ <br>  Yes, you can buy a new key for only a few pounds.  Please contact me for more information. 
+      <p>
+     <li><strong>Can I replace my pneumatic tyres with solid puncture proof ones?</strong>
+ <br>  Yes, in most cases, I can source and fit solid puncture proof tyres to your existing wheels. Alternatively I can inject a puncture proofing sealant into your existing tyres and tubes, giving the reassurance of puncture proof tyres, with the more comfortable ride provided by pneumatic tyres.  Please contact me for more information. 
      
      
      
@@ -313,6 +394,5 @@ These are a few simply checks we recommend before calling for help with repaits,
 </p>
 </footer> 
          </body>
-
 
 
