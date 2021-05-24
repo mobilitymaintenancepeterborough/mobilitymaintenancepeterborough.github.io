@@ -73,7 +73,7 @@ Our prices are competitive as we are a small team, which means we can offer a co
 <h2><U>Services</U></h2>
 <font size="4" color="navy" font face="sans-serif"> </p>
 To ensure you get the most from your mobility scooter, we offer the following range of services;                     
-<li>Annual Servicing, which includes;</li>
+<li>Annual Service / safety check, from £65, which includes;</li>
                                                   <ul>
                                                <header style="position: relative; top: -20px;">   
 <li>A fully documented inspection of all aspects of your scooter (to include brakes, wheels/tyres, all electrics, fixings, chassis, bodywork, seats and belts).</li>
