@@ -36,7 +36,7 @@ loop="7" scrollamount="1" scrolldelay="2" width="100%">
  <p>
 <font size="4" color="navy" font face="sans-serif"> </p> 
 <img src="https://user-images.githubusercontent.com/41233842/45094031-1256b480-b112-11e8-983d-d1579c0aab5e.jpg" width="250" height "250" alt="picture" style="float:right;margin:0 5px 5px 0;ALIGN=”right” />  
-<font size="4" color="navy" font face="sans-serif"> My name is David and I am the owner of Mobility Maintenance Peterborough and my company has over 15 years’ experience in maintaining and repairing a wide range of mobility scooters in Peterborough and the surrounding area.</>
+<font size="4" color="navy" font face="sans-serif"> My name is David and I am the owner of Mobility Maintenance Peterborough and my company has over 20 years’ experience in maintaining and repairing a wide range of mobility scooters in Peterborough and the surrounding area.</>
 <p>
 I'm often asked <strong> "Why mobility scooter repairs?" </strong> and "How can we be so competitive?" </p>
 <p>
